@@ -1,0 +1,9 @@
+# Python
+__pycache__/
+*.pyc
+
+# fetch_data.py の再開用チェックポイント(アプリの動作には不要)
+data/progress.json
+
+# macOS
+.DS_Store

@@ -1,0 +1,104 @@
+{
+  "british-invasion": [
+    { "artist": "The Beatles", "album": "Please Please Me", "year": 1963, "note": "デビュー当日にわずか数時間で録音されたと言われるほどのライブ感が残る1作目。マージービートの熱量をそのままパッケージした、ブリティッシュ・インヴェイジョンの出発点。" },
+    { "artist": "The Beatles", "album": "A Hard Day's Night", "year": 1964, "note": "全曲レノン=マッカートニー作というバンドの自信の表れ。映画とタイアップし、ビートルズ現象を世界規模に押し広げた一枚。" },
+    { "artist": "The Kinks", "album": "The Kinks Are the Village Green Preservation Society", "year": 1968, "note": "アメリカ進出よりも英国的な郷愁を選んだ異色作。当時は不発だったが、後の英国的ロックの美学に大きな影響を残した。" },
+    { "artist": "The Who", "album": "My Generation", "year": 1965, "note": "「My Generation」の吃音ヴォーカルに象徴される、モッズ世代の苛立ちと衝動をそのまま音にしたデビュー作。" },
+    { "artist": "The Rolling Stones", "album": "Out of Our Heads", "year": 1965, "note": "アメリカン・ブルース/R&Bへの憧れを隠さないカヴァー中心の一枚。「Satisfaction」を含み、ストーンズ独自のロック観が固まりつつある過渡期の記録。" }
+  ],
+  "blues-rock": [
+    { "artist": "The Rolling Stones", "album": "Beggars Banquet", "year": 1968, "note": "サイケデリック期を経て原点のブルースへ回帰した転換作。「Sympathy for the Devil」など、以後のストーンズ像を決定づけた。" },
+    { "artist": "Cream", "album": "Disraeli Gears", "year": 1967, "note": "クラプトンのギター、ブルース、サイケデリックが融合したパワートリオの金字塔。即興演奏を前提としたロックの新しい形を提示した。" },
+    { "artist": "The Yardbirds", "album": "Roger the Engineer", "year": 1966, "note": "ベック在籍期の唯一のオリジナル・スタジオ盤。ブルースを実験的なギターサウンドへと拡張し、後のハードロック/プログレへの橋渡しとなった。" },
+    { "artist": "Fleetwood Mac", "album": "Then Play On", "year": 1969, "note": "後のポップ路線とは異なる、ピーター・グリーン期の骨太なブルースロック。英国ブルースブームの実力を示す一枚。" },
+    { "artist": "Led Zeppelin", "album": "Led Zeppelin", "year": 1969, "note": "ブルースを土台にしながら圧倒的な音圧とダイナミズムで塗り替えたデビュー作。ハードロックの原型がここに現れている。" }
+  ],
+  "psychedelic-rock": [
+    { "artist": "Pink Floyd", "album": "The Piper at the Gates of Dawn", "year": 1967, "note": "シド・バレット主導期唯一のオリジナル作。おとぎ話的な歌詞と実験的な音響処理が同居する、英国サイケの代表作。" },
+    { "artist": "The Beatles", "album": "Sgt. Pepper's Lonely Hearts Club Band", "year": 1967, "note": "架空のバンドという設定でスタジオ実験を推し進めた一枚。以後のロックにおける「アルバム」概念そのものを変えた。" },
+    { "artist": "The Rolling Stones", "album": "Their Satanic Majesties Request", "year": 1967, "note": "ストーンズが唯一本格的にサイケデリアへ踏み込んだ作品。賛否はあるが、時代の空気を色濃く反映している。" },
+    { "artist": "Small Faces", "album": "Ogdens' Nut Gone Flake", "year": 1968, "note": "円盤ジャケットとコンセプト構成が話題になった意欲作。モッズからサイケへの移行を象徴する一枚。" },
+    { "artist": "Pink Floyd", "album": "A Saucerful of Secrets", "year": 1968, "note": "バレット脱退直後、バンドが集団創作へ舵を切った作品。実験性を保ちながら後のプログレ的構築美への道を開いた。" }
+  ],
+  "progressive-rock": [
+    { "artist": "King Crimson", "album": "In the Court of the Crimson King", "year": 1969, "note": "プログレッシブロックというジャンルそのものを立ち上げたとされる一枚。緊張感あるアンサンブルと幻想的な世界観が同居する。" },
+    { "artist": "Yes", "album": "Close to the Edge", "year": 1972, "note": "組曲的構成と超絶技巧を極限まで推し進めた、プログレ黄金期を象徴する作品。" },
+    { "artist": "Genesis", "album": "Selling England by the Pound", "year": 1973, "note": "ピーター・ガブリエル在籍期の劇的な物語性と英国的叙情が最も高い次元で結晶化した一枚。" },
+    { "artist": "Jethro Tull", "album": "Aqualung", "year": 1971, "note": "フルートを大胆に導入したフォーク的要素とハードなギターが同居する、ジェスロ・タルの代表作。" },
+    { "artist": "Emerson, Lake & Palmer", "album": "Brain Salad Surgery", "year": 1973, "note": "クラシックの語法とロックの攻撃性を融合させた、キーボード主導プログレの到達点のひとつ。" }
+  ],
+  "hard-rock": [
+    { "artist": "Led Zeppelin", "album": "Led Zeppelin IV", "year": 1971, "note": "「Stairway to Heaven」を含む、ハードロックとフォーク的叙情性が奇跡的に同居した金字塔。" },
+    { "artist": "Deep Purple", "album": "Machine Head", "year": 1972, "note": "「Smoke on the Water」のリフに象徴される、様式美とライブ感を両立させたハードロックの教科書的作品。" },
+    { "artist": "Queen", "album": "A Night at the Opera", "year": 1975, "note": "ハードロックにオペラ的構築美とユーモアを持ち込んだ、クイーンの野心作。「Bohemian Rhapsody」を収録。" },
+    { "artist": "Whitesnake", "album": "Whitesnake", "year": 1987, "note": "英国ブルースロック出身のカヴァデイルが、80年代アリーナ仕様のハードロックへ大胆に生まれ変わらせた一枚。" },
+    { "artist": "The Who", "album": "Who's Next", "year": 1971, "note": "シンセサイザーを大胆に導入しつつ、圧倒的なバンド演奏でハードロックの新しい説得力を示した作品。" }
+  ],
+  "heavy-metal": [
+    { "artist": "Black Sabbath", "album": "Paranoid", "year": 1970, "note": "重く不穏なリフとオカルト的世界観で、ヘヴィメタルというジャンルの原型を作った作品。" },
+    { "artist": "Judas Priest", "album": "British Steel", "year": 1980, "note": "革ジャン・スタッズという「メタルの様式美」を確立し、NWOBHMムーブメントの起爆剤となった一枚。" },
+    { "artist": "Iron Maiden", "album": "The Number of the Beast", "year": 1982, "note": "ブルース・ディッキンソン加入後の代表作。物語性の強い歌詞と超絶技巧のツインギターでNWOBHMを世界的ジャンルへ押し上げた。" },
+    { "artist": "Motörhead", "album": "Ace of Spades", "year": 1980, "note": "パンクの疾走感とメタルの攻撃性を融合させた、スピードメタルの原点とも言える一枚。" },
+    { "artist": "Def Leppard", "album": "Hysteria", "year": 1987, "note": "メタルのヘヴィさとポップな作曲センスを両立させ、NWOBHM出身バンドとして世界的セールスを記録した作品。" }
+  ],
+  "glam-rock": [
+    { "artist": "T. Rex", "album": "Electric Warrior", "year": 1971, "note": "グラムロックの雛形を作った一枚。ブギー的なリフとマーク・ボランのカリスマ性が凝縮されている。" },
+    { "artist": "David Bowie", "album": "The Rise and Fall of Ziggy Stardust and the Spiders from Mars", "year": 1972, "note": "架空のロックスター「ジギー・スターダスト」を演じ切ったコンセプトアルバム。グラムロックを芸術表現の域まで高めた。" },
+    { "artist": "Roxy Music", "album": "Roxy Music", "year": 1972, "note": "アートスクール出身らしい前衛性とポップな中毒性を兼ね備えたデビュー作。グラムの知的な側面を切り開いた。" },
+    { "artist": "David Bowie", "album": "Aladdin Sane", "year": 1973, "note": "ジギー・キャラクターを引き継ぎつつ、よりアメリカ的でジャジーな要素を取り込んだ意欲作。" },
+    { "artist": "Queen", "album": "Queen II", "year": 1974, "note": "後の様式化されたクイーン像の前段階として、グラム的な過剰さと幻想性が色濃く出た初期作。" }
+  ],
+  "punk-rock": [
+    { "artist": "Sex Pistols", "album": "Never Mind the Bollocks, Here's the Sex Pistols", "year": 1977, "note": "英国パンクの起爆剤となった唯一のオリジナルアルバム。既存の音楽産業と社会そのものへの怒りを叩きつけた。" },
+    { "artist": "The Clash", "album": "The Clash", "year": 1977, "note": "パンクの攻撃性にレゲエ的な要素も取り込んだ、政治性の強いデビュー作。" },
+    { "artist": "The Damned", "album": "Damned Damned Damned", "year": 1977, "note": "英国パンクとして最初にリリースされたアルバムのひとつ。スピード感あるガレージ的パンクサウンド。" },
+    { "artist": "Buzzcocks", "album": "Another Music in a Different Kitchen", "year": 1978, "note": "パンクの疾走感にポップなメロディを持ち込んだ、パワーポップ的パンクの名作。" },
+    { "artist": "The Jam", "album": "In the City", "year": 1977, "note": "モッズの美学とパンクの衝動を接続した、ポール・ウェラー率いるバンドのデビュー作。" }
+  ],
+  "post-punk-new-wave": [
+    { "artist": "Joy Division", "album": "Unknown Pleasures", "year": 1979, "note": "冷たく硬質なプロダクションと内省的な歌詞で、ポストパンクの美学を決定づけた一枚。" },
+    { "artist": "The Police", "album": "Outlandos d'Amour", "year": 1978, "note": "パンクの熱量にレゲエ的なリズムを組み合わせた、ポリスならではのニューウェイヴ・サウンドのデビュー作。" },
+    { "artist": "Siouxsie and the Banshees", "album": "Juju", "year": 1981, "note": "呪術的なリズムと鋭いギターで、ポストパンクとゴシックロックの橋渡しをした重要作。" },
+    { "artist": "The Cure", "album": "Seventeen Seconds", "year": 1980, "note": "ミニマルで陰鬱なサウンドへ舵を切った転換作。以後のゴシック的方向性の出発点となった。" },
+    { "artist": "New Order", "album": "Power, Corruption & Lies", "year": 1983, "note": "ジョイ・ディヴィジョン解散後、シンセサイザーとダンスビートを大胆に取り込み新しい地平を切り開いた一枚。" }
+  ],
+  "gothic-rock": [
+    { "artist": "Bauhaus", "album": "In the Flat Field", "year": 1980, "note": "ゴシックロックというジャンル名の由来にもなったバンドのデビュー作。陰鬱で演劇的な世界観を確立した。" },
+    { "artist": "The Sisters of Mercy", "album": "Floodland", "year": 1987, "note": "ドラムマシンと荘厳なアレンジで、ゴシックロックをよりスケール感のある音楽へと発展させた作品。" },
+    { "artist": "The Cure", "album": "Disintegration", "year": 1989, "note": "陰鬱さと美しさが極限まで融合した、ザ・キュアーの到達点とされる大作。" },
+    { "artist": "Siouxsie and the Banshees", "album": "Hyaena", "year": 1984, "note": "耽美的な世界観とポップな感覚が同居する、バンド中期の充実作。" },
+    { "artist": "Fields of the Nephilim", "album": "The Nephilim", "year": 1988, "note": "西部劇的な世界観と重厚なサウンドで、80年代後半のゴシックシーンを牽引した一枚。" }
+  ],
+  "madchester": [
+    { "artist": "The Stone Roses", "album": "The Stone Roses", "year": 1989, "note": "ギターポップとダンスビートを融合させ、マッドチェスターの方向性を決定づけた金字塔的デビュー作。" },
+    { "artist": "Happy Mondays", "album": "Pills 'n' Thrills and Bellyaches", "year": 1990, "note": "ハシエンダのクラブカルチャーとロックを直結させた、マッドチェスターを代表する一枚。" },
+    { "artist": "The Charlatans", "album": "Some Friendly", "year": 1990, "note": "オルガンサウンドを効かせたグルーヴ感で、マッドチェスターの裾野を広げたバンドの代表作。" },
+    { "artist": "James", "album": "Gold Mother", "year": 1990, "note": "マンチェスター出身らしいアンセミックな高揚感を持つ楽曲群で人気を確立した作品。" }
+  ],
+  "shoegaze": [
+    { "artist": "My Bloody Valentine", "album": "Loveless", "year": 1991, "note": "ギターノイズの壁と浮遊感あるヴォーカルを融合させ、シューゲイザーというジャンルの完成形を示した伝説的作品。" },
+    { "artist": "My Bloody Valentine", "album": "Isn't Anything", "year": 1988, "note": "ノイズと甘美なメロディの融合という、後の音の壁サウンドの原型が現れたアルバム。" },
+    { "artist": "Slowdive", "album": "Souvlaki", "year": 1993, "note": "アンビエントに接近した音像美で、シューゲイザーの叙情的な側面を極めた作品。" },
+    { "artist": "Ride", "album": "Nowhere", "year": 1990, "note": "轟音ギターとメロディアスな展開を両立させた、シューゲイザー初期を代表する一枚。" }
+  ],
+  "britpop": [
+    { "artist": "Oasis", "album": "(What's the Story) Morning Glory?", "year": 1995, "note": "「Wonderwall」を含む、ブリットポップを国民的現象にまで押し上げた金字塔的作品。" },
+    { "artist": "Blur", "album": "Parklife", "year": 1994, "note": "英国的な日常をシニカルかつポップに描き、ブリットポップの美学を決定づけた作品。" },
+    { "artist": "Pulp", "album": "Different Class", "year": 1995, "note": "階級社会への皮肉を効かせた歌詞とグラム的な演出で、90年代英国の空気を鋭く切り取った一枚。" },
+    { "artist": "Suede", "album": "Suede", "year": 1993, "note": "ブリットポップ・ムーブメントの先駆けとなったデビュー作。退廃的な美学とグラムの残り香が漂う。" },
+    { "artist": "The Verve", "album": "Urban Hymns", "year": 1997, "note": "「Bitter Sweet Symphony」を含む、シューゲイザー的な音響とブリットポップ的な高揚感を融合させた大作。" }
+  ],
+  "alternative-indie": [
+    { "artist": "Radiohead", "album": "OK Computer", "year": 1997, "note": "テクノロジー社会への不安を、実験的なサウンドスケープで描いた90年代ロックの金字塔。" },
+    { "artist": "Muse", "album": "Origin of Symmetry", "year": 2001, "note": "クラシックの荘厳さとハードロックのダイナミズムを融合させた、ミューズ初期の代表作。" },
+    { "artist": "Coldplay", "album": "A Rush of Blood to the Head", "year": 2002, "note": "内省的な歌詞とアリーナ規模のスケール感を両立させ、世界的成功を決定づけた作品。" },
+    { "artist": "Arctic Monkeys", "album": "Whatever People Say I Am, That's What I'm Not", "year": 2006, "note": "SNS以前の口コミ文化から生まれた、若者のリアルな日常を鋭く描くデビュー作。" },
+    { "artist": "Kate Bush", "album": "Hounds of Love", "year": 1985, "note": "ジャンルの枠に収まらない独創的な音楽性で、英国オルタナティブ音楽の先駆けとなった作品。" }
+  ],
+  "other": [
+    { "artist": "Dire Straits", "album": "Brothers in Arms", "year": 1985, "note": "パブロック的な質実剛健さとデジタル録音の先進性を両立させた、80年代を代表するロックアルバム。" },
+    { "artist": "Fleetwood Mac", "album": "Rumours", "year": 1977, "note": "英国発のバンドがアメリカ移住後に到達したポップ・ロックの金字塔。バンド内の人間模様がそのまま楽曲に投影されている。" },
+    { "artist": "Elton John", "album": "Goodbye Yellow Brick Road", "year": 1973, "note": "ピアノを軸にロック・ポップ・フォークを横断する、エルトン・ジョンの代表作。" },
+    { "artist": "Rod Stewart", "album": "Every Picture Tells a Story", "year": 1971, "note": "フォークとブルースロックの語法を自在に行き来する、ロッド・スチュワート初期の名盤。" }
+  ]
+}

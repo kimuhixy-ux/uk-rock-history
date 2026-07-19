@@ -1,0 +1,186 @@
+{
+  "nodes": [
+    { "id": "the-yardbirds", "name": "The Yardbirds", "type": "group" },
+    { "id": "cream", "name": "Cream", "type": "group" },
+    { "id": "led-zeppelin", "name": "Led Zeppelin", "type": "group" },
+    { "id": "jeff-beck-group", "name": "Jeff Beck Group", "type": "group" },
+    { "id": "eric-clapton", "name": "Eric Clapton", "type": "person" },
+    { "id": "jimmy-page", "name": "Jimmy Page", "type": "person" },
+    { "id": "jeff-beck", "name": "Jeff Beck", "type": "person" },
+
+    { "id": "john-mayalls-bluesbreakers", "name": "John Mayall's Bluesbreakers", "type": "group" },
+    { "id": "fleetwood-mac", "name": "Fleetwood Mac", "type": "group" },
+    { "id": "rolling-stones", "name": "The Rolling Stones", "type": "group" },
+    { "id": "peter-green", "name": "Peter Green", "type": "person" },
+    { "id": "mick-taylor", "name": "Mick Taylor", "type": "person" },
+
+    { "id": "genesis", "name": "Genesis", "type": "group" },
+    { "id": "peter-gabriel", "name": "Peter Gabriel", "type": "person" },
+    { "id": "phil-collins", "name": "Phil Collins", "type": "person" },
+
+    { "id": "yes", "name": "Yes", "type": "group" },
+    { "id": "king-crimson", "name": "King Crimson", "type": "group" },
+    { "id": "emerson-lake-palmer", "name": "Emerson, Lake & Palmer", "type": "group" },
+    { "id": "the-nice", "name": "The Nice", "type": "group" },
+    { "id": "keith-emerson", "name": "Keith Emerson", "type": "person" },
+    { "id": "greg-lake", "name": "Greg Lake", "type": "person" },
+    { "id": "bill-bruford", "name": "Bill Bruford", "type": "person" },
+    { "id": "asia", "name": "Asia", "type": "group" },
+
+    { "id": "sex-pistols", "name": "Sex Pistols", "type": "group" },
+    { "id": "public-image-ltd", "name": "Public Image Ltd", "type": "group" },
+    { "id": "john-lydon", "name": "John Lydon", "type": "person" },
+
+    { "id": "the-clash", "name": "The Clash", "type": "group" },
+    { "id": "joe-strummer-the-mescaleros", "name": "Joe Strummer and the Mescaleros", "type": "group" },
+
+    { "id": "joy-division", "name": "Joy Division", "type": "group" },
+    { "id": "new-order", "name": "New Order", "type": "group" },
+
+    { "id": "the-smiths", "name": "The Smiths", "type": "group" },
+    { "id": "morrissey", "name": "Morrissey", "type": "person" },
+    { "id": "johnny-marr", "name": "Johnny Marr", "type": "person" },
+    { "id": "electronic", "name": "Electronic", "type": "group" },
+    { "id": "bernard-sumner", "name": "Bernard Sumner", "type": "person" },
+
+    { "id": "buzzcocks", "name": "Buzzcocks", "type": "group" },
+    { "id": "magazine", "name": "Magazine", "type": "group" },
+    { "id": "howard-devoto", "name": "Howard Devoto", "type": "person" },
+
+    { "id": "black-sabbath", "name": "Black Sabbath", "type": "group" },
+    { "id": "ozzy-osbourne", "name": "Ozzy Osbourne", "type": "person" },
+    { "id": "rainbow", "name": "Rainbow", "type": "group" },
+    { "id": "ronnie-james-dio", "name": "Ronnie James Dio", "type": "person" },
+
+    { "id": "deep-purple", "name": "Deep Purple", "type": "group" },
+    { "id": "ritchie-blackmore", "name": "Ritchie Blackmore", "type": "person" },
+    { "id": "david-coverdale", "name": "David Coverdale", "type": "person" },
+    { "id": "whitesnake", "name": "Whitesnake", "type": "group" },
+
+    { "id": "the-police", "name": "The Police", "type": "group" },
+    { "id": "sting", "name": "Sting", "type": "person" },
+
+    { "id": "roxy-music", "name": "Roxy Music", "type": "group" },
+    { "id": "brian-eno", "name": "Brian Eno", "type": "person" },
+    { "id": "bryan-ferry", "name": "Bryan Ferry", "type": "person" },
+
+    { "id": "small-faces", "name": "Small Faces", "type": "group" },
+    { "id": "faces", "name": "Faces", "type": "group" },
+    { "id": "rod-stewart", "name": "Rod Stewart", "type": "person" },
+    { "id": "ronnie-wood", "name": "Ronnie Wood", "type": "person" },
+
+    { "id": "oasis", "name": "Oasis", "type": "group" },
+    { "id": "noel-gallaghers-high-flying-birds", "name": "Noel Gallagher's High Flying Birds", "type": "group" },
+    { "id": "beady-eye", "name": "Beady Eye", "type": "group" },
+    { "id": "noel-gallagher", "name": "Noel Gallagher", "type": "person" },
+    { "id": "liam-gallagher", "name": "Liam Gallagher", "type": "person" },
+
+    { "id": "blur", "name": "Blur", "type": "group" },
+    { "id": "gorillaz", "name": "Gorillaz", "type": "group" },
+    { "id": "damon-albarn", "name": "Damon Albarn", "type": "person" },
+
+    { "id": "the-verve", "name": "The Verve", "type": "group" },
+    { "id": "richard-ashcroft", "name": "Richard Ashcroft", "type": "person" },
+
+    { "id": "happy-mondays", "name": "Happy Mondays", "type": "group" },
+    { "id": "black-grape", "name": "Black Grape", "type": "group" },
+    { "id": "shaun-ryder", "name": "Shaun Ryder", "type": "person" },
+
+    { "id": "the-stone-roses", "name": "The Stone Roses", "type": "group" },
+    { "id": "the-seahorses", "name": "The Seahorses", "type": "group" },
+    { "id": "ian-brown", "name": "Ian Brown", "type": "person" },
+    { "id": "john-squire", "name": "John Squire", "type": "person" },
+
+    { "id": "siouxsie-and-the-banshees", "name": "Siouxsie and the Banshees", "type": "group" },
+    { "id": "the-cure", "name": "The Cure", "type": "group" },
+    { "id": "robert-smith", "name": "Robert Smith", "type": "person" },
+
+    { "id": "david-bowie", "name": "David Bowie", "type": "person" },
+    { "id": "tin-machine", "name": "Tin Machine", "type": "group" }
+  ],
+  "links": [
+    { "source": "the-yardbirds", "target": "eric-clapton", "label": "脱退・ソロ/バンド活動へ" },
+    { "source": "eric-clapton", "target": "cream", "label": "結成" },
+    { "source": "eric-clapton", "target": "john-mayalls-bluesbreakers", "label": "在籍(クリームの前)" },
+    { "source": "the-yardbirds", "target": "jimmy-page", "label": "在籍" },
+    { "source": "jimmy-page", "target": "led-zeppelin", "label": "結成(元ヤードバーズ)" },
+    { "source": "the-yardbirds", "target": "jeff-beck", "label": "在籍" },
+    { "source": "jeff-beck", "target": "jeff-beck-group", "label": "結成" },
+
+    { "source": "john-mayalls-bluesbreakers", "target": "peter-green", "label": "在籍" },
+    { "source": "peter-green", "target": "fleetwood-mac", "label": "結成" },
+    { "source": "john-mayalls-bluesbreakers", "target": "mick-taylor", "label": "在籍" },
+    { "source": "mick-taylor", "target": "rolling-stones", "label": "加入" },
+
+    { "source": "genesis", "target": "peter-gabriel", "label": "脱退・ソロへ" },
+    { "source": "genesis", "target": "phil-collins", "label": "ヴォーカル兼任からソロへ" },
+
+    { "source": "yes", "target": "bill-bruford", "label": "在籍" },
+    { "source": "bill-bruford", "target": "king-crimson", "label": "加入" },
+    { "source": "king-crimson", "target": "greg-lake", "label": "在籍" },
+    { "source": "greg-lake", "target": "emerson-lake-palmer", "label": "結成" },
+    { "source": "the-nice", "target": "keith-emerson", "label": "在籍" },
+    { "source": "keith-emerson", "target": "emerson-lake-palmer", "label": "結成" },
+    { "source": "emerson-lake-palmer", "target": "asia", "label": "元メンバーが再編で参加" },
+
+    { "source": "sex-pistols", "target": "john-lydon", "label": "在籍" },
+    { "source": "john-lydon", "target": "public-image-ltd", "label": "脱退後に結成" },
+
+    { "source": "the-clash", "target": "joe-strummer-the-mescaleros", "label": "解散後ジョー・ストラマーが結成" },
+
+    { "source": "joy-division", "target": "new-order", "label": "イアン・カーティス死去後に改名・再編" },
+
+    { "source": "the-smiths", "target": "morrissey", "label": "解散後ソロへ" },
+    { "source": "the-smiths", "target": "johnny-marr", "label": "解散後複数プロジェクトへ" },
+    { "source": "johnny-marr", "target": "electronic", "label": "結成" },
+    { "source": "new-order", "target": "bernard-sumner", "label": "在籍" },
+    { "source": "bernard-sumner", "target": "electronic", "label": "結成" },
+
+    { "source": "buzzcocks", "target": "howard-devoto", "label": "脱退" },
+    { "source": "howard-devoto", "target": "magazine", "label": "結成" },
+
+    { "source": "black-sabbath", "target": "ozzy-osbourne", "label": "在籍(後に脱退)" },
+    { "source": "black-sabbath", "target": "ronnie-james-dio", "label": "オジー脱退後に加入" },
+    { "source": "rainbow", "target": "ronnie-james-dio", "label": "在籍(ブラック・サバス加入前)" },
+
+    { "source": "deep-purple", "target": "ritchie-blackmore", "label": "在籍" },
+    { "source": "ritchie-blackmore", "target": "rainbow", "label": "結成" },
+    { "source": "deep-purple", "target": "david-coverdale", "label": "在籍" },
+    { "source": "david-coverdale", "target": "whitesnake", "label": "結成" },
+
+    { "source": "the-police", "target": "sting", "label": "在籍" },
+    { "source": "sting", "target": "the-police", "label": "解散後ソロへ" },
+
+    { "source": "roxy-music", "target": "brian-eno", "label": "初期在籍・脱退" },
+    { "source": "roxy-music", "target": "bryan-ferry", "label": "在籍・ソロ活動も並行" },
+
+    { "source": "small-faces", "target": "ronnie-wood", "label": "在籍" },
+    { "source": "small-faces", "target": "rod-stewart", "label": "フェイセズ改名時に加入" },
+    { "source": "small-faces", "target": "faces", "label": "改名・再編" },
+    { "source": "faces", "target": "rod-stewart", "label": "在籍・ソロ活動も並行" },
+    { "source": "faces", "target": "ronnie-wood", "label": "在籍" },
+    { "source": "ronnie-wood", "target": "rolling-stones", "label": "解散後に加入" },
+
+    { "source": "oasis", "target": "noel-gallagher", "label": "在籍" },
+    { "source": "noel-gallagher", "target": "noel-gallaghers-high-flying-birds", "label": "解散後結成" },
+    { "source": "oasis", "target": "liam-gallagher", "label": "在籍" },
+    { "source": "liam-gallagher", "target": "beady-eye", "label": "解散後結成" },
+
+    { "source": "blur", "target": "damon-albarn", "label": "在籍" },
+    { "source": "damon-albarn", "target": "gorillaz", "label": "並行プロジェクトとして結成" },
+
+    { "source": "the-verve", "target": "richard-ashcroft", "label": "在籍・解散後ソロへ" },
+
+    { "source": "happy-mondays", "target": "shaun-ryder", "label": "在籍" },
+    { "source": "shaun-ryder", "target": "black-grape", "label": "解散後結成" },
+
+    { "source": "the-stone-roses", "target": "ian-brown", "label": "在籍・解散後ソロへ" },
+    { "source": "the-stone-roses", "target": "john-squire", "label": "在籍" },
+    { "source": "john-squire", "target": "the-seahorses", "label": "解散後結成" },
+
+    { "source": "siouxsie-and-the-banshees", "target": "robert-smith", "label": "一時的にギターで参加" },
+    { "source": "the-cure", "target": "robert-smith", "label": "在籍" },
+
+    { "source": "david-bowie", "target": "tin-machine", "label": "1980年代末に結成したバンド" }
+  ]
+}

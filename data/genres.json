@@ -1,0 +1,214 @@
+{
+  "categories": [
+    {
+      "id": "british-invasion",
+      "label": "ブリティッシュ・インヴェイジョン / マージービート",
+      "period": "1960s",
+      "description": "リヴァプールのマージービートを中心に、アメリカ市場を席巻したビートバンド群。"
+    },
+    {
+      "id": "blues-rock",
+      "label": "ブルースロック",
+      "period": "1960s",
+      "description": "アメリカのブルースを英国の若者がロックとして再解釈したジャンル。"
+    },
+    {
+      "id": "psychedelic-rock",
+      "label": "サイケデリックロック",
+      "period": "1960s",
+      "description": "幻覚的・実験的なサウンドを追求したロック。"
+    },
+    {
+      "id": "progressive-rock",
+      "label": "プログレッシブロック",
+      "period": "1970s",
+      "description": "クラシックやジャズの語法を取り込み、組曲的な長尺曲を志向したロック。"
+    },
+    {
+      "id": "hard-rock",
+      "label": "ハードロック",
+      "period": "1970s",
+      "description": "歪んだギターと強靭なリズムを前面に押し出したロック。"
+    },
+    {
+      "id": "heavy-metal",
+      "label": "ヘヴィメタル(NWOBHM含む)",
+      "period": "1970s-1980s",
+      "description": "ハードロックからさらに攻撃性を増したジャンル。NWOBHM(新世紀英国重金属)を含む。"
+    },
+    {
+      "id": "glam-rock",
+      "label": "グラムロック",
+      "period": "1970s",
+      "description": "派手な化粧・衣装とポップなロックサウンドを組み合わせたジャンル。"
+    },
+    {
+      "id": "punk-rock",
+      "label": "パンクロック",
+      "period": "1970s",
+      "description": "過剰技巧化したロックへの反発として生まれた、シンプルで攻撃的なロック。"
+    },
+    {
+      "id": "post-punk-new-wave",
+      "label": "ポストパンク / ニューウェイヴ",
+      "period": "1970s-1980s",
+      "description": "パンクの精神を保ちつつ、より実験的・電子的な方向へ発展したジャンル。"
+    },
+    {
+      "id": "gothic-rock",
+      "label": "ゴシックロック",
+      "period": "1980s",
+      "description": "ポストパンクから派生した、陰鬱で耽美的な世界観を持つロック。"
+    },
+    {
+      "id": "madchester",
+      "label": "マッドチェスター",
+      "period": "1980s-1990s",
+      "description": "マンチェスターを中心に、ダンスミュージックとロックが融合したムーブメント。"
+    },
+    {
+      "id": "shoegaze",
+      "label": "シューゲイザー",
+      "period": "1980s-1990s",
+      "description": "ノイジーなギターの壁とドリーミーなヴォーカルが特徴のジャンル。"
+    },
+    {
+      "id": "britpop",
+      "label": "ブリットポップ",
+      "period": "1990s",
+      "description": "英国性を強く打ち出したギターポップ/ロックのムーブメント。"
+    },
+    {
+      "id": "alternative-indie",
+      "label": "オルタナティブ / インディーロック",
+      "period": "1990s-2000s",
+      "description": "メインストリームから距離を置いた、独立系のロックサウンド。"
+    },
+    {
+      "id": "other",
+      "label": "その他(フォークロック、パブロック等)",
+      "period": "",
+      "description": "上記に当てはまらないロック系ジャンル。"
+    }
+  ],
+  "genealogy": [
+    { "from": "blues-rock", "to": "hard-rock" },
+    { "from": "hard-rock", "to": "heavy-metal" },
+    { "from": "psychedelic-rock", "to": "progressive-rock" },
+    { "from": "british-invasion", "to": "psychedelic-rock" },
+    { "from": "british-invasion", "to": "blues-rock" },
+    { "from": "punk-rock", "to": "post-punk-new-wave" },
+    { "from": "post-punk-new-wave", "to": "gothic-rock" },
+    { "from": "post-punk-new-wave", "to": "madchester" },
+    { "from": "post-punk-new-wave", "to": "shoegaze" },
+    { "from": "madchester", "to": "britpop" },
+    { "from": "shoegaze", "to": "britpop" },
+    { "from": "britpop", "to": "alternative-indie" },
+    { "from": "glam-rock", "to": "punk-rock" },
+    { "from": "heavy-metal", "to": "alternative-indie" }
+  ],
+  "tag_map": {
+    "british invasion": ["british-invasion"],
+    "merseybeat": ["british-invasion"],
+    "mersey beat": ["british-invasion"],
+    "beat": ["british-invasion"],
+    "beat music": ["british-invasion"],
+    "60s": ["british-invasion"],
+    "60's": ["british-invasion"],
+    "mod": ["british-invasion"],
+    "freakbeat": ["british-invasion"],
+
+    "blues rock": ["blues-rock"],
+    "british blues": ["blues-rock"],
+    "british rhythm & blues": ["blues-rock"],
+    "rhythm & blues": ["blues-rock"],
+    "electric blues": ["blues-rock"],
+    "blues": ["blues-rock"],
+
+    "psychedelic rock": ["psychedelic-rock"],
+    "psychedelic": ["psychedelic-rock"],
+    "psychedelic pop": ["psychedelic-rock"],
+    "acid rock": ["psychedelic-rock"],
+    "raga rock": ["psychedelic-rock"],
+
+    "progressive rock": ["progressive-rock"],
+    "prog rock": ["progressive-rock"],
+    "art rock": ["progressive-rock"],
+    "symphonic rock": ["progressive-rock"],
+    "proto-prog": ["progressive-rock"],
+    "canterbury scene": ["progressive-rock"],
+    "krautrock": ["progressive-rock"],
+
+    "hard rock": ["hard-rock"],
+    "album rock": ["hard-rock"],
+    "arena rock": ["hard-rock"],
+
+    "heavy metal": ["heavy-metal"],
+    "metal": ["heavy-metal"],
+    "nwobhm": ["heavy-metal"],
+    "new wave of british heavy metal": ["heavy-metal"],
+    "doom metal": ["heavy-metal"],
+    "proto doom": ["heavy-metal"],
+    "traditional doom metal": ["heavy-metal"],
+    "speed metal": ["heavy-metal"],
+    "thrash metal": ["heavy-metal"],
+    "power metal": ["heavy-metal"],
+
+    "glam rock": ["glam-rock"],
+    "glam": ["glam-rock"],
+    "glitter rock": ["glam-rock"],
+
+    "punk": ["punk-rock"],
+    "punk rock": ["punk-rock"],
+    "street punk": ["punk-rock"],
+    "oi": ["punk-rock"],
+    "anarcho-punk": ["punk-rock"],
+    "hardcore punk": ["punk-rock"],
+
+    "post-punk": ["post-punk-new-wave"],
+    "post punk": ["post-punk-new-wave"],
+    "new wave": ["post-punk-new-wave"],
+    "synth-pop": ["post-punk-new-wave"],
+    "synthpop": ["post-punk-new-wave"],
+    "new romantic": ["post-punk-new-wave"],
+    "no wave": ["post-punk-new-wave"],
+
+    "gothic rock": ["gothic-rock"],
+    "goth rock": ["gothic-rock"],
+    "gothic": ["gothic-rock"],
+    "deathrock": ["gothic-rock"],
+
+    "madchester": ["madchester"],
+    "baggy": ["madchester"],
+
+    "shoegaze": ["shoegaze"],
+    "shoegazer": ["shoegaze"],
+    "dream pop": ["shoegaze"],
+    "noise pop": ["shoegaze"],
+
+    "britpop": ["britpop"],
+
+    "alternative rock": ["alternative-indie"],
+    "alternative": ["alternative-indie"],
+    "indie rock": ["alternative-indie"],
+    "indie pop": ["alternative-indie"],
+    "indie": ["alternative-indie"],
+    "grunge": ["alternative-indie"],
+    "post-britpop": ["alternative-indie"],
+    "post-grunge": ["alternative-indie"],
+
+    "folk rock": ["other"],
+    "folk": ["other"],
+    "pub rock": ["other"],
+    "rock and roll": ["other"],
+    "rock & roll": ["other"],
+    "rockabilly": ["other"],
+    "ska": ["other"],
+    "reggae": ["other"],
+    "britfunk": ["other"],
+    "yacht rock": ["other"],
+    "soft rock": ["other"],
+    "pop rock": ["other"],
+    "power pop": ["other"]
+  }
+}
