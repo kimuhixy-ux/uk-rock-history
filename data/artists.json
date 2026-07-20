@@ -1776,7 +1776,7 @@
     "mbid": "5441c29d-3602-4898-b1a1-b77fa23b8e50",
     "name": "David Bowie",
     "type": "person",
-    "begin_year": 1947,
+    "begin_year": 1970,
     "end_year": 2016,
     "area": "England",
     "tags": [
@@ -2218,7 +2218,7 @@
     "mbid": "b83bc61f-8451-4a5d-8b8e-7e9ed295e822",
     "name": "Elton John",
     "type": "person",
-    "begin_year": 1947,
+    "begin_year": 1969,
     "end_year": null,
     "area": "United Kingdom",
     "tags": [
@@ -2447,7 +2447,7 @@
     "mbid": "a35237a0-4f47-40a6-b6f3-1e786db23402",
     "name": "Rod Stewart",
     "type": "person",
-    "begin_year": 1945,
+    "begin_year": 1969,
     "end_year": null,
     "area": "United Kingdom",
     "tags": [
@@ -2678,7 +2678,7 @@
     "mbid": "618b6900-0618-4f1e-b835-bccb17f84294",
     "name": "Eric Clapton",
     "type": "person",
-    "begin_year": 1945,
+    "begin_year": 1970,
     "end_year": null,
     "area": "United Kingdom",
     "tags": [
@@ -5238,7 +5238,7 @@
     "mbid": "4b585938-f271-45e2-b19a-91c634b5e396",
     "name": "Kate Bush",
     "type": "person",
-    "begin_year": 1958,
+    "begin_year": 1978,
     "end_year": null,
     "area": "England",
     "tags": [
@@ -5321,7 +5321,7 @@
     "mbid": "8e66ea2b-b57b-47d9-8df0-df4630aeb8e5",
     "name": "Peter Gabriel",
     "type": "person",
-    "begin_year": 1950,
+    "begin_year": 1977,
     "end_year": null,
     "area": "United Kingdom",
     "tags": [
@@ -5416,7 +5416,7 @@
     "mbid": "7944ed53-2a58-4035-9b93-140a71e41c34",
     "name": "Sting",
     "type": "person",
-    "begin_year": 1951,
+    "begin_year": 1985,
     "end_year": null,
     "area": "England",
     "tags": [
@@ -5531,7 +5531,7 @@
     "mbid": "a41ac10f-0a56-4672-9161-b83f9b223559",
     "name": "Van Morrison",
     "type": "person",
-    "begin_year": 1945,
+    "begin_year": 1967,
     "end_year": null,
     "area": "Northern Ireland",
     "tags": [
@@ -5887,7 +5887,7 @@
     "mbid": "57c6f649-6cde-48a7-8114-2a200247601a",
     "name": "Tom Jones",
     "type": "person",
-    "begin_year": 1940,
+    "begin_year": 1965,
     "end_year": null,
     "area": "Wales",
     "tags": [
@@ -6144,7 +6144,7 @@
     "mbid": "2c7b4cba-db88-4107-902c-5e85458aaec7",
     "name": "Brian Kennedy",
     "type": "person",
-    "begin_year": 1966,
+    "begin_year": 1990,
     "end_year": null,
     "area": "Northern Ireland",
     "tags": [
@@ -6433,7 +6433,7 @@
     "mbid": "4d5447d7-c61c-4120-ba1b-d7f471d385b9",
     "name": "John Lennon",
     "type": "person",
-    "begin_year": 1940,
+    "begin_year": 1968,
     "end_year": 1980,
     "area": "United Kingdom",
     "tags": [
@@ -6841,7 +6841,7 @@
     "mbid": "ba550d0e-adac-4864-b88b-407cab5e76af",
     "name": "Paul McCartney",
     "type": "person",
-    "begin_year": 1942,
+    "begin_year": 1970,
     "end_year": null,
     "area": "United Kingdom",
     "tags": [
@@ -7335,7 +7335,7 @@
     "mbid": "7c687bbb-ba1a-496d-919a-f322530739e4",
     "name": "Fish",
     "type": "person",
-    "begin_year": 1958,
+    "begin_year": 1990,
     "end_year": null,
     "area": "Scotland",
     "tags": [
@@ -7682,7 +7682,7 @@
     "mbid": "e795e03d-b5d5-4a5f-834d-162cfb308a2c",
     "name": "PJ Harvey",
     "type": "person",
-    "begin_year": 1969,
+    "begin_year": 1992,
     "end_year": null,
     "area": "England",
     "tags": [
@@ -7928,7 +7928,7 @@
     "mbid": "b5c2fdfc-d037-45b8-84f9-09ebb7ff8aa1",
     "name": "Cliff Richard",
     "type": "person",
-    "begin_year": 1940,
+    "begin_year": 1959,
     "end_year": null,
     "area": "United Kingdom",
     "tags": [
@@ -9070,7 +9070,7 @@
     "mbid": "07f6d469-38f3-46da-9cfa-2f532422b84e",
     "name": "Joe Jackson",
     "type": "person",
-    "begin_year": 1954,
+    "begin_year": 1979,
     "end_year": null,
     "area": "England",
     "tags": [
@@ -9224,7 +9224,7 @@
     "mbid": "4365b045-388b-42a5-91b5-b860dbcbf9f7",
     "name": "Gary Lightbody",
     "type": "person",
-    "begin_year": 1976,
+    "begin_year": null,
     "end_year": null,
     "area": "Northern Ireland",
     "tags": [
@@ -10619,7 +10619,7 @@
     "mbid": "0aa8294b-6332-4b65-b677-e3a1f8591d3b",
     "name": "Bonnie Tyler",
     "type": "person",
-    "begin_year": 1951,
+    "begin_year": 1977,
     "end_year": 2026,
     "area": "United Kingdom",
     "tags": [
@@ -10891,7 +10891,7 @@
     "mbid": "f4eb8346-052d-4a5c-8393-cba3aeadb4d9",
     "name": "Steve Hackett",
     "type": "person",
-    "begin_year": 1950,
+    "begin_year": 1975,
     "end_year": null,
     "area": "United Kingdom",
     "tags": [
@@ -11371,7 +11371,7 @@
     "mbid": "013fa897-86db-41d3-8e9f-386c8a34f4e6",
     "name": "Morrissey",
     "type": "person",
-    "begin_year": 1959,
+    "begin_year": 1988,
     "end_year": null,
     "area": "United Kingdom",
     "tags": [
@@ -11477,7 +11477,7 @@
     "mbid": "3b84d2c4-47cd-40e0-9a36-278cfade66df",
     "name": "Jackie McAuley",
     "type": "person",
-    "begin_year": 1946,
+    "begin_year": 1971,
     "end_year": null,
     "area": "Northern Ireland",
     "tags": [
@@ -11509,7 +11509,7 @@
     "mbid": "a8806b5c-3ee0-4277-94d3-1a5427a7707c",
     "name": "Gary Moore",
     "type": "person",
-    "begin_year": 1952,
+    "begin_year": 1978,
     "end_year": 2011,
     "area": "United Kingdom",
     "tags": [
@@ -11777,7 +11777,7 @@
     "mbid": "32f2d6bd-c22b-42cf-a7bc-0c4b48cd2bcb",
     "name": "Joe Cocker",
     "type": "person",
-    "begin_year": 1944,
+    "begin_year": 1969,
     "end_year": 2014,
     "area": "United Kingdom",
     "tags": [
@@ -11962,7 +11962,7 @@
     "mbid": "a1684a49-feaa-4150-b758-d9412fc59f12",
     "name": "Mike Oldfield",
     "type": "person",
-    "begin_year": 1953,
+    "begin_year": 1973,
     "end_year": null,
     "area": "United Kingdom",
     "tags": [
@@ -12165,7 +12165,7 @@
     "mbid": "6cb79cb2-9087-44d4-828b-5c6fdff2c957",
     "name": "Gary Numan",
     "type": "person",
-    "begin_year": 1958,
+    "begin_year": 1979,
     "end_year": null,
     "area": "United Kingdom",
     "tags": [
@@ -12296,7 +12296,7 @@
     "mbid": "e49f69da-17d5-4c5c-bac0-dadcb0e588f5",
     "name": "Mark Knopfler",
     "type": "person",
-    "begin_year": 1949,
+    "begin_year": 1990,
     "end_year": null,
     "area": "United Kingdom",
     "tags": [
@@ -12392,7 +12392,7 @@
     "mbid": "8a338e06-d182-46f2-bd16-30a09bc840ba",
     "name": "Elvis Costello",
     "type": "person",
-    "begin_year": 1954,
+    "begin_year": 1977,
     "end_year": null,
     "area": "United Kingdom",
     "tags": [
@@ -12534,7 +12534,7 @@
     "mbid": "0f50beab-d77d-4f0f-ac26-0b87d3e9b11b",
     "name": "Roger Waters",
     "type": "person",
-    "begin_year": 1943,
+    "begin_year": 1984,
     "end_year": null,
     "area": "United Kingdom",
     "tags": [
@@ -12602,7 +12602,7 @@
     "mbid": "260b6184-8828-48eb-945c-bc4cb6fc34ca",
     "name": "Charli xcx",
     "type": "person",
-    "begin_year": 1992,
+    "begin_year": 2013,
     "end_year": null,
     "area": "England",
     "tags": [
@@ -12675,7 +12675,7 @@
     "mbid": "401c3991-b76b-499d-8082-9f2df958ef78",
     "name": "Phil Collins",
     "type": "person",
-    "begin_year": 1951,
+    "begin_year": 1981,
     "end_year": null,
     "area": "United Kingdom",
     "tags": [
@@ -12749,7 +12749,7 @@
     "mbid": "c707b37e-cb5c-4694-be4d-46beefcb2475",
     "name": "Chris Rea",
     "type": "person",
-    "begin_year": 1951,
+    "begin_year": 1978,
     "end_year": 2025,
     "area": "United Kingdom",
     "tags": [
@@ -13085,7 +13085,7 @@
     "mbid": "72d7d717-0837-4f2a-9641-d0f9fdd3acf7",
     "name": "Donovan",
     "type": "person",
-    "begin_year": 1946,
+    "begin_year": 1965,
     "end_year": null,
     "area": "United Kingdom",
     "tags": [
@@ -13435,7 +13435,7 @@
     "mbid": "db4624cf-0e44-481e-a9dc-2142b833ec2f",
     "name": "Robbie Williams",
     "type": "person",
-    "begin_year": 1974,
+    "begin_year": 1997,
     "end_year": null,
     "area": "United Kingdom",
     "tags": [
@@ -13537,7 +13537,7 @@
     "mbid": "8aa5b65a-5b3c-4029-92bf-47a544356934",
     "name": "Ozzy Osbourne",
     "type": "person",
-    "begin_year": 1948,
+    "begin_year": 1980,
     "end_year": 2025,
     "area": "United Kingdom",
     "tags": [
@@ -14159,7 +14159,7 @@
     "mbid": "ff95eb47-41c4-4f7f-a104-cdc30f02e872",
     "name": "Brian Eno",
     "type": "person",
-    "begin_year": 1948,
+    "begin_year": 1973,
     "end_year": null,
     "area": "United Kingdom",
     "tags": [
@@ -14649,7 +14649,7 @@
     "mbid": "c4406045-e640-4cfe-8b88-4732cce314d4",
     "name": "Paul Weller",
     "type": "person",
-    "begin_year": 1958,
+    "begin_year": 1992,
     "end_year": null,
     "area": "United Kingdom",
     "tags": [
@@ -14861,7 +14861,7 @@
     "mbid": "8d463dee-ffae-4028-a3af-ec8ccb595906",
     "name": "Bill Nelson",
     "type": "person",
-    "begin_year": 1948,
+    "begin_year": 1971,
     "end_year": null,
     "area": "United Kingdom",
     "tags": [
@@ -15907,7 +15907,7 @@
     "mbid": "8ed2e0b3-aa4c-4e13-bec3-dc7393ed4d6b",
     "name": "Thom Yorke",
     "type": "person",
-    "begin_year": 1968,
+    "begin_year": 2006,
     "end_year": null,
     "area": "England",
     "tags": [
@@ -15958,7 +15958,7 @@
     "mbid": "e2345fdf-2be7-47c5-a6dd-be64353ad134",
     "name": "Cat Stevens",
     "type": "person",
-    "begin_year": 1948,
+    "begin_year": 1967,
     "end_year": null,
     "area": "United Kingdom",
     "tags": [
@@ -16352,7 +16352,7 @@
     "mbid": "fb147b8f-0144-4418-acaa-90b2d9779840",
     "name": "Pete Townshend",
     "type": "person",
-    "begin_year": 1945,
+    "begin_year": 1970,
     "end_year": null,
     "area": "United Kingdom",
     "tags": [
@@ -16645,7 +16645,7 @@
     "mbid": "7f3d82ee-3817-4367-9eec-f33a312247a1",
     "name": "MARINA",
     "type": "person",
-    "begin_year": 1985,
+    "begin_year": 2009,
     "end_year": null,
     "area": "Wales",
     "tags": [
@@ -17142,7 +17142,7 @@
     "mbid": "47c8f88b-987a-4b64-9175-2b1b57809727",
     "name": "Billy Idol",
     "type": "person",
-    "begin_year": 1955,
+    "begin_year": 1982,
     "end_year": null,
     "area": "United Kingdom",
     "tags": [
@@ -17324,7 +17324,7 @@
     "mbid": "2ad06109-0a52-4b7b-8b7a-ca7c10baf597",
     "name": "Rick Wakeman",
     "type": "person",
-    "begin_year": 1949,
+    "begin_year": 1971,
     "end_year": null,
     "area": "United Kingdom",
     "tags": [
@@ -17956,7 +17956,7 @@
     "mbid": "4ef7a9e2-2cf5-483a-8616-ef7791a98026",
     "name": "Bryan Ferry",
     "type": "person",
-    "begin_year": 1945,
+    "begin_year": 1973,
     "end_year": null,
     "area": "United Kingdom",
     "tags": [
@@ -18171,7 +18171,7 @@
     "mbid": "0c2d1de8-fc3a-4ca9-a90b-eea69a5968a5",
     "name": "Chris de Burgh",
     "type": "person",
-    "begin_year": 1948,
+    "begin_year": 1974,
     "end_year": null,
     "area": "United Kingdom",
     "tags": [
@@ -19159,7 +19159,7 @@
     "mbid": "96b1d906-0fda-406d-beb6-19c6758998df",
     "name": "Robert Palmer",
     "type": "person",
-    "begin_year": 1949,
+    "begin_year": 1974,
     "end_year": 2003,
     "area": "United Kingdom",
     "tags": [
@@ -19776,7 +19776,7 @@
     "mbid": "1dce970e-34bc-48b2-ab51-48d87544a4c2",
     "name": "David Gilmour",
     "type": "person",
-    "begin_year": 1946,
+    "begin_year": 1978,
     "end_year": null,
     "area": "United Kingdom",
     "tags": [
@@ -20594,7 +20594,7 @@
     "mbid": "df16cfc7-c081-4ba3-b934-a29e2452acfa",
     "name": "Alan Hawkshaw",
     "type": "person",
-    "begin_year": 1937,
+    "begin_year": 1968,
     "end_year": 2021,
     "area": "United Kingdom",
     "tags": [
@@ -20997,7 +20997,7 @@
     "mbid": "c09024b1-2ebf-48be-86a7-b9a13cfdf2b8",
     "name": "Miabella Nesbitt",
     "type": "person",
-    "begin_year": 2009,
+    "begin_year": null,
     "end_year": null,
     "area": "Northern Ireland",
     "tags": [
@@ -21246,7 +21246,7 @@
     "mbid": "ccb8f30e-4d71-40c4-8b1d-846dafe73e2c",
     "name": "George Michael",
     "type": "person",
-    "begin_year": 1963,
+    "begin_year": 1987,
     "end_year": 2016,
     "area": "United Kingdom",
     "tags": [
@@ -21493,7 +21493,7 @@
     "mbid": "b8a7c51f-362c-4dcb-a259-bc6e0095f0a6",
     "name": "Ed Sheeran",
     "type": "person",
-    "begin_year": 1991,
+    "begin_year": 2011,
     "end_year": null,
     "area": "United Kingdom",
     "tags": [
@@ -21563,7 +21563,7 @@
     "mbid": "e821a756-487f-4931-a02f-27cf11cec7bf",
     "name": "John Martyn",
     "type": "person",
-    "begin_year": 1948,
+    "begin_year": 1967,
     "end_year": 2009,
     "area": "United Kingdom",
     "tags": [
@@ -21732,7 +21732,7 @@
     "mbid": "7cec4a03-0a83-4308-856a-afb8aa5db0fc",
     "name": "Billy Bragg",
     "type": "person",
-    "begin_year": 1957,
+    "begin_year": 1983,
     "end_year": null,
     "area": "United Kingdom",
     "tags": [
@@ -22113,7 +22113,7 @@
     "mbid": "197889a0-15b6-40bc-89b1-8859137bf823",
     "name": "Chris Norman",
     "type": "person",
-    "begin_year": 1950,
+    "begin_year": 1982,
     "end_year": null,
     "area": "United Kingdom",
     "tags": [
@@ -22405,7 +22405,7 @@
     "mbid": "4b462375-c508-432a-8c88-ceeec38b16ae",
     "name": "Kim Wilde",
     "type": "person",
-    "begin_year": 1960,
+    "begin_year": 1981,
     "end_year": null,
     "area": "United Kingdom",
     "tags": [
@@ -22629,7 +22629,7 @@
     "mbid": "bd53f9a7-8be9-46b0-bf7d-1deea3cb57bc",
     "name": "Robert Plant",
     "type": "person",
-    "begin_year": 1948,
+    "begin_year": 1982,
     "end_year": null,
     "area": "United Kingdom",
     "tags": [
@@ -22789,7 +22789,7 @@
     "mbid": "78d7d902-5c43-4a33-8ef9-54dad3393f74",
     "name": "Meic Stevens",
     "type": "person",
-    "begin_year": 1942,
+    "begin_year": 1970,
     "end_year": null,
     "area": "Wales",
     "tags": [
@@ -22888,7 +22888,7 @@
     "mbid": "34c63966-445c-4613-afe1-4f0e1e53ae9a",
     "name": "Fatboy Slim",
     "type": "person",
-    "begin_year": 1963,
+    "begin_year": 1996,
     "end_year": null,
     "area": "United Kingdom",
     "tags": [
@@ -23224,7 +23224,7 @@
     "mbid": "ab7d49fa-c383-4c41-b890-3fe68e559dc4",
     "name": "Al Stewart",
     "type": "person",
-    "begin_year": 1945,
+    "begin_year": 1967,
     "end_year": null,
     "area": "United Kingdom",
     "tags": [
@@ -23701,7 +23701,7 @@
     "mbid": "885f90ef-6bd9-409a-b2df-e165e553c68e",
     "name": "Steve Winwood",
     "type": "person",
-    "begin_year": 1948,
+    "begin_year": 1971,
     "end_year": null,
     "area": "United Kingdom",
     "tags": [
@@ -23860,7 +23860,7 @@
     "mbid": "14a4bc78-1c2d-4ca7-8d1b-9b58076a2a17",
     "name": "Jeff Beck",
     "type": "person",
-    "begin_year": 1944,
+    "begin_year": 1975,
     "end_year": 2023,
     "area": "United Kingdom",
     "tags": [
@@ -24261,7 +24261,7 @@
     "mbid": "3a51b862-0144-40f6-aa17-6aaeefea29d9",
     "name": "Steven Wilson",
     "type": "person",
-    "begin_year": 1967,
+    "begin_year": 2008,
     "end_year": null,
     "area": "United Kingdom",
     "tags": [
@@ -24611,7 +24611,7 @@
     "mbid": "74df4e2f-fe75-4b4a-87c5-3f1b4bc95aa2",
     "name": "Leo Sayer",
     "type": "person",
-    "begin_year": 1948,
+    "begin_year": 1973,
     "end_year": null,
     "area": "United Kingdom",
     "tags": [
@@ -24751,7 +24751,7 @@
     "mbid": "898b645e-eed2-490a-8ce2-0e7a4d2d5bc8",
     "name": "Robert Fripp",
     "type": "person",
-    "begin_year": 1946,
+    "begin_year": 1979,
     "end_year": null,
     "area": "United Kingdom",
     "tags": [
@@ -25042,7 +25042,7 @@
     "mbid": "e62f6374-7e6f-4492-bb4a-3a1c62366e61",
     "name": "Anthony Phillips",
     "type": "person",
-    "begin_year": 1951,
+    "begin_year": 1977,
     "end_year": null,
     "area": "United Kingdom",
     "tags": [
@@ -25468,7 +25468,7 @@
     "mbid": "d67e6b0a-d2c6-4e4a-ba30-7834701535a1",
     "name": "Marc Almond",
     "type": "person",
-    "begin_year": 1957,
+    "begin_year": 1984,
     "end_year": null,
     "area": "United Kingdom",
     "tags": [
@@ -25789,7 +25789,7 @@
     "mbid": "ecfeacaf-0399-470f-8207-d1c646569fd0",
     "name": "Richard Thompson",
     "type": "person",
-    "begin_year": 1949,
+    "begin_year": 1972,
     "end_year": null,
     "area": "United Kingdom",
     "tags": [
@@ -25959,7 +25959,7 @@
     "mbid": "14ed9dea-1bb0-4743-ba32-39674a71da89",
     "name": "Marianne Faithfull",
     "type": "person",
-    "begin_year": 1946,
+    "begin_year": 1965,
     "end_year": 2025,
     "area": "United Kingdom",
     "tags": [
@@ -26142,7 +26142,7 @@
     "mbid": "18c1e06b-fe76-4802-b070-53a2f6b707bd",
     "name": "John Mayall",
     "type": "person",
-    "begin_year": 1933,
+    "begin_year": 1967,
     "end_year": 2024,
     "area": "United Kingdom",
     "tags": [
@@ -26607,7 +26607,7 @@
     "mbid": "0e422e91-a42a-4b4d-8413-9baff67350f2",
     "name": "Billy Ocean",
     "type": "person",
-    "begin_year": 1950,
+    "begin_year": 1976,
     "end_year": null,
     "area": "United Kingdom",
     "tags": [
@@ -26913,7 +26913,7 @@
     "mbid": "23b2cc78-7595-4630-bebb-a349a4f25262",
     "name": "Howard Jones",
     "type": "person",
-    "begin_year": 1955,
+    "begin_year": 1984,
     "end_year": null,
     "area": "United Kingdom",
     "tags": [
@@ -27024,7 +27024,7 @@
     "mbid": "ebee61b4-bbdd-4087-9bcb-d5aa099088ec",
     "name": "James Blunt",
     "type": "person",
-    "begin_year": 1974,
+    "begin_year": 2004,
     "end_year": null,
     "area": "United Kingdom",
     "tags": [
@@ -28131,7 +28131,7 @@
     "mbid": "6605c2c6-f115-486c-8b1a-b786882de463",
     "name": "Robin Trower",
     "type": "person",
-    "begin_year": 1945,
+    "begin_year": 1973,
     "end_year": null,
     "area": "United Kingdom",
     "tags": [
@@ -28335,7 +28335,7 @@
     "mbid": "7d32fa5a-7ccb-483b-87ea-5370b4be4d64",
     "name": "Vera Lynn",
     "type": "person",
-    "begin_year": 1917,
+    "begin_year": 1949,
     "end_year": 2020,
     "area": "United Kingdom",
     "tags": [
@@ -28460,7 +28460,7 @@
     "mbid": "6a997121-0919-482b-a91b-c6fe1b55a4b9",
     "name": "James Bay",
     "type": "person",
-    "begin_year": 1990,
+    "begin_year": 2014,
     "end_year": null,
     "area": "England",
     "tags": [
@@ -28617,7 +28617,7 @@
     "mbid": "967002b0-58ef-4b22-a58c-fbc631ff695c",
     "name": "Paul Young",
     "type": "person",
-    "begin_year": 1956,
+    "begin_year": 1983,
     "end_year": null,
     "area": "United Kingdom",
     "tags": [
@@ -28963,7 +28963,7 @@
     "mbid": "e0195400-ad63-4a21-8d56-9a96647cb24e",
     "name": "Shakin’ Stevens",
     "type": "person",
-    "begin_year": 1948,
+    "begin_year": 1980,
     "end_year": null,
     "area": "United Kingdom",
     "tags": [
@@ -29076,7 +29076,7 @@
     "mbid": "3b972356-4410-4858-ab9c-6e3c3cf76609",
     "name": "Peter Hammill",
     "type": "person",
-    "begin_year": 1948,
+    "begin_year": 1971,
     "end_year": null,
     "area": "United Kingdom",
     "tags": [
@@ -29533,7 +29533,7 @@
     "mbid": "519774a4-3b18-4042-b8c0-927845a616c9",
     "name": "Jimmy Page",
     "type": "person",
-    "begin_year": 1944,
+    "begin_year": 1968,
     "end_year": null,
     "area": "United Kingdom",
     "tags": [
@@ -29836,7 +29836,7 @@
     "mbid": "e1022265-b6e1-45b6-8413-fbcb7ea13e1e",
     "name": "Gareth Johnson",
     "type": "person",
-    "begin_year": null,
+    "begin_year": 2020,
     "end_year": null,
     "area": "United Kingdom",
     "tags": [
@@ -30344,7 +30344,7 @@
     "mbid": "638206ee-0e3d-47cf-9769-d73330b15a87",
     "name": "Peter Frampton",
     "type": "person",
-    "begin_year": 1950,
+    "begin_year": 1972,
     "end_year": null,
     "area": "United Kingdom",
     "tags": [
@@ -30795,7 +30795,7 @@
     "mbid": "300c4c73-33ac-4255-9d57-4e32627f5e13",
     "name": "Ringo Starr",
     "type": "person",
-    "begin_year": 1940,
+    "begin_year": 1970,
     "end_year": null,
     "area": "United Kingdom",
     "tags": [
@@ -30940,7 +30940,7 @@
     "mbid": "3e8bd859-7d82-49e0-b267-84fc46e2bf68",
     "name": "David Gray",
     "type": "person",
-    "begin_year": 1968,
+    "begin_year": 1993,
     "end_year": null,
     "area": "United Kingdom",
     "tags": [
@@ -31550,7 +31550,7 @@
     "mbid": "88d17133-abbc-42db-9526-4e2c1db60336",
     "name": "beabadoobee",
     "type": "person",
-    "begin_year": 2000,
+    "begin_year": 2020,
     "end_year": null,
     "area": "England",
     "tags": [
@@ -31742,7 +31742,7 @@
     "mbid": "ec4b6d29-527c-4cc0-89bb-8a4775f350d0",
     "name": "Dave Edmunds",
     "type": "person",
-    "begin_year": 1944,
+    "begin_year": 1972,
     "end_year": null,
     "area": "United Kingdom",
     "tags": [
@@ -32012,7 +32012,7 @@
     "mbid": "f053ae01-dae6-4aae-9883-e8c279fdbef4",
     "name": "Seal",
     "type": "person",
-    "begin_year": 1963,
+    "begin_year": 1991,
     "end_year": null,
     "area": "United Kingdom",
     "tags": [
@@ -32103,7 +32103,7 @@
     "mbid": "896f0194-8ab2-4278-81e0-c56a0444b569",
     "name": "Sarah Brightman",
     "type": "person",
-    "begin_year": 1960,
+    "begin_year": 1985,
     "end_year": null,
     "area": "United Kingdom",
     "tags": [
@@ -32565,7 +32565,7 @@
     "mbid": "d1353a0c-26fb-4318-a116-defde9c7c9ad",
     "name": "Dido",
     "type": "person",
-    "begin_year": 1971,
+    "begin_year": 1999,
     "end_year": null,
     "area": "United Kingdom",
     "tags": [

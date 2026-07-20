@@ -179,6 +179,15 @@ def build_artist_record(mbid):
 
     albums = get_studio_albums(mbid)
 
+    if artist_type == "person":
+        # MusicBrainzのPersonエンティティでは life-span.begin は生年月日であり、
+        # 音楽活動の開始時期(年代のグループ分けに使いたい情報)とは一致しない
+        # (例: David Bowieは1947年生まれだが、活動開始は1960年代後半)。
+        # そのため個人ミュージシャンは、最初のスタジオアルバムのリリース年を
+        # begin_year として採用する。該当アルバムがない場合はNone(不明)とする。
+        album_years = [a["year"] for a in albums if a.get("year")]
+        begin_year = min(album_years) if album_years else None
+
     return {
         "mbid": mbid,
         "name": detail.get("name"),
