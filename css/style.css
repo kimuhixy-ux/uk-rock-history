@@ -308,6 +308,18 @@ input[type="text"]:focus, input[type="search"]:focus, select:focus {
   border-radius: 8px;
   flex-wrap: wrap;
 }
+.album-artwork {
+  width: 44px;
+  height: 44px;
+  border-radius: 6px;
+  object-fit: cover;
+  flex-shrink: 0;
+  background: var(--bg-elevated);
+}
+.album-artwork-placeholder {
+  border: 1px solid var(--border);
+}
+.album-info { flex: 1; min-width: 120px; }
 .album-row .album-title { font-weight: 600; font-size: 14px; }
 .album-row .album-year { color: var(--text-dim); font-size: 12px; margin-left: 8px; }
 .album-links { display: flex; gap: 8px; }

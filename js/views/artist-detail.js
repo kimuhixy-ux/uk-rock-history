@@ -52,9 +52,13 @@ export async function renderArtistDetail(view, slug) {
 
 function albumRowHtml(artist, album) {
   const query = `${artist.name} ${album.title}`;
+  const artwork = album.artwork
+    ? `<img class="album-artwork" src="${escapeHtml(album.artwork)}" alt="" loading="lazy" onerror="this.replaceWith(Object.assign(document.createElement('div'), {className: 'album-artwork album-artwork-placeholder'}))">`
+    : `<div class="album-artwork album-artwork-placeholder"></div>`;
   return `
     <div class="album-row">
-      <div>
+      ${artwork}
+      <div class="album-info">
         <span class="album-title">${escapeHtml(album.title)}</span>
         <span class="album-year">${album.year ?? "年不明"}</span>
       </div>
