@@ -38288,5 +38288,587 @@
         "personnel": "Andrew Skeet"
       }
     ]
+  },
+  {
+    "mbid": "a7409219-a681-4072-adb2-5285106ce6f2",
+    "name": "The The",
+    "type": "group",
+    "begin_year": 1979,
+    "end_year": null,
+    "area": "United Kingdom",
+    "tags": [
+      "alternative rock",
+      "art pop",
+      "english",
+      "new pop",
+      "new wave",
+      "post-punk",
+      "sillyname",
+      "synth-pop"
+    ],
+    "albums": [
+      {
+        "title": "Burning Blue Soul",
+        "year": 1981,
+        "release_group_mbid": "e69e9356-1a4d-3754-bd8a-225c43e09cc2",
+        "tracks": [
+          {
+            "position": 1,
+            "title": "Red Cinders in the Sand",
+            "length": "5:42"
+          },
+          {
+            "position": 2,
+            "title": "Song Without an Ending",
+            "length": "4:35"
+          },
+          {
+            "position": 3,
+            "title": "Time Again for the Golden Sunset",
+            "length": "3:51"
+          },
+          {
+            "position": 4,
+            "title": "Icing Up",
+            "length": "7:36"
+          },
+          {
+            "position": 5,
+            "title": "Like a Sun Risin Thru My Garden",
+            "length": "5:02"
+          },
+          {
+            "position": 6,
+            "title": "Out of Control",
+            "length": "2:01"
+          },
+          {
+            "position": 7,
+            "title": "Bugle Boy",
+            "length": "2:27"
+          },
+          {
+            "position": 8,
+            "title": "Delirious",
+            "length": "3:34"
+          },
+          {
+            "position": 9,
+            "title": "The River Flows East in Spring",
+            "length": "3:33"
+          },
+          {
+            "position": 10,
+            "title": "Another Boy Drowning",
+            "length": "5:53"
+          }
+        ],
+        "artwork": "https://archive.org/download/mbid-f55ce702-3284-3251-8999-3a7cdfe8b0c7/mbid-f55ce702-3284-3251-8999-3a7cdfe8b0c7-21153675954_thumb250.jpg",
+        "personnel": "Matt Johnson (vo)"
+      },
+      {
+        "title": "Soul Mining",
+        "year": 1983,
+        "release_group_mbid": "923e256a-7bf0-31e0-bddc-ec76db526c32",
+        "tracks": [
+          {
+            "position": 1,
+            "title": "I’ve Been Waiting for Tomorrow (All of My Life)",
+            "length": "5:45"
+          },
+          {
+            "position": 2,
+            "title": "This Is the Day",
+            "length": "5:01"
+          },
+          {
+            "position": 3,
+            "title": "The Sinking Feeling",
+            "length": "3:44"
+          },
+          {
+            "position": 4,
+            "title": "Uncertain Smile",
+            "length": "6:53"
+          },
+          {
+            "position": 5,
+            "title": "The Twilight Hour",
+            "length": "5:58"
+          },
+          {
+            "position": 6,
+            "title": "Soul Mining",
+            "length": "4:50"
+          },
+          {
+            "position": 7,
+            "title": "Giant",
+            "length": "9:35"
+          },
+          {
+            "position": 8,
+            "title": "Perfect",
+            "length": null
+          },
+          {
+            "position": 9,
+            "title": "Three Orange Kisses From Kazan",
+            "length": null
+          },
+          {
+            "position": 10,
+            "title": "The Nature of Virtue",
+            "length": null
+          },
+          {
+            "position": 11,
+            "title": "Mental Healing Process",
+            "length": null
+          },
+          {
+            "position": 12,
+            "title": "Waitin’ for the Upturn",
+            "length": null
+          },
+          {
+            "position": 13,
+            "title": "Fruit of the Heart",
+            "length": null
+          }
+        ],
+        "artwork": "https://archive.org/download/mbid-14982a22-c2fb-410d-9103-0bb8be9c2adc/mbid-14982a22-c2fb-410d-9103-0bb8be9c2adc-11530895844_thumb250.jpg",
+        "personnel": "Camelle Hinds (b), Matt Johnson (p, syn, perc, kbd, g, other instruments, marimba, vo, other vocals), Thomas Leer (solo, syn, bass synthesizer), Zeke Manyika (ds, other vocals), Paul Boyle (fiddle), Andy Duncan (ds), Wix (accordion), Jeremy Meek (b), Jools Holland (p), Martin McCarrick (cello), Anne Stephenson (vln), J.G. Thirlwell (perc), Paul Hardiman (other vocals)"
+      },
+      {
+        "title": "Infected",
+        "year": 1986,
+        "release_group_mbid": "1eb45345-2fee-3be5-8b0a-5b91238de4f4",
+        "tracks": [
+          {
+            "position": 1,
+            "title": "Infected",
+            "length": "4:31"
+          },
+          {
+            "position": 2,
+            "title": "Out of the Blue (Into the Fire)",
+            "length": "5:13"
+          },
+          {
+            "position": 3,
+            "title": "Heartland",
+            "length": "5:07"
+          },
+          {
+            "position": 4,
+            "title": "Angels of Deception",
+            "length": "4:39"
+          },
+          {
+            "position": 5,
+            "title": "Sweet Bird of Truth",
+            "length": "5:04"
+          },
+          {
+            "position": 6,
+            "title": "Slow Train to Dawn",
+            "length": "4:14"
+          },
+          {
+            "position": 7,
+            "title": "Twilight of a Champion",
+            "length": "4:23"
+          },
+          {
+            "position": 8,
+            "title": "The Mercy Beat",
+            "length": "6:36"
+          },
+          {
+            "position": 9,
+            "title": "Infected (12″ version)",
+            "length": "6:58"
+          },
+          {
+            "position": 10,
+            "title": "Sweet Bird of Truth (12″ version)",
+            "length": "7:37"
+          },
+          {
+            "position": 11,
+            "title": "Slow Train to Dawn (12″ version)",
+            "length": "6:32"
+          }
+        ],
+        "artwork": "https://archive.org/download/mbid-dfb9698a-9997-397e-8c49-678dff5ba2b0/mbid-dfb9698a-9997-397e-8c49-678dff5ba2b0-21153768494_thumb250.jpg",
+        "personnel": "Guy Barker (tp, flh), Dan Brown (b), Luís Jardim (perc), Matt Johnson (g, kbd, perc, bass), David Palmer (ds), Zeke Manyika (cho), Tessa Niles (cho, additional), Astarti String Orchestra, Pete Beachill (tb), Jeff Clyne (acoustic bass guitar), Gavyn Wright, Steve Hogarth (p), Judd Lander (harmonica), Warne Livesey (b, cho, org), Steve Brown (b), The Croquets (cho), Bashiri Johnson (perc), Bob Mintzer (sax), Roli Mosimann (perc), Anna Domino (additional, guest), Dave Clayton (bass synthesizer), Jamie Talbot (sax), John Thirkell (tp), Neneh Cherry (additional, guest), Andrew Poppy (additional), Steve Aitken (tb), Andrew Blake (sax), Dave de Fries (tp), Pip Eastop (French horn), John Edcott (tp), Ashley Slater (tb), Anne Dudley, The Deaf Section (brass), Gary Mobeley (other instruments)"
+      },
+      {
+        "title": "Mind Bomb",
+        "year": 1989,
+        "release_group_mbid": "8708255c-6b32-3fec-b6c1-a59e8de6a397",
+        "tracks": [
+          {
+            "position": 1,
+            "title": "Good Morning Beautiful",
+            "length": "7:31"
+          },
+          {
+            "position": 2,
+            "title": "Armageddon Days Are Here (Again)",
+            "length": "5:40"
+          },
+          {
+            "position": 3,
+            "title": "The Violence of Truth",
+            "length": "5:41"
+          },
+          {
+            "position": 4,
+            "title": "Kingdom of Rain",
+            "length": "5:54"
+          },
+          {
+            "position": 5,
+            "title": "The Beat(en) Generation",
+            "length": "3:06"
+          },
+          {
+            "position": 6,
+            "title": "August & September",
+            "length": "5:47"
+          },
+          {
+            "position": 7,
+            "title": "Gravitate to Me",
+            "length": "8:10"
+          },
+          {
+            "position": 8,
+            "title": "Beyond Love",
+            "length": "4:20"
+          }
+        ],
+        "artwork": "https://archive.org/download/mbid-7eee8a33-d3b3-3d73-9381-13d15a4b61a6/mbid-7eee8a33-d3b3-3d73-9381-13d15a4b61a6-10805909206_thumb250.jpg",
+        "personnel": "Pandit Dinesh (perc), James Eller (b, acoustic bass guitar), Mark Feltham (harmonica), Matt Johnson (p, tape, g, kbd, ag, vo, cho, melodica), Warne Livesey (kbd, banjo, ag, cho), Johnny Marr (g, additional, harmonica, cho), David Palmer (ds), Phil Todd (ts), Chris White (ts), Esme Livesey (other vocals), Astarti String Orchestra (strings), Gavyn Wright (fiddle), Ambrosian Singers (choir vocals), Wix (Hammond organ, p, accordion), Danny Cummings (congas, perc), Pedro Haldemann (bongos, perc), Sinéad O’Connor (additional, guest, vo), Geoff Foster (cho), Andrew Poppy, Sarah Homer (cl), Dai Pritchard (b-cl), Hilary Storer (ob), Danny Thompson (b), Ashley Slater (tb), John Eacott (flh)"
+      },
+      {
+        "title": "Dusk",
+        "year": 1993,
+        "release_group_mbid": "eb15aa23-9f7e-37f2-ab30-49fabdbbfc73",
+        "tracks": [
+          {
+            "position": 1,
+            "title": "True Happiness This Way Lies",
+            "length": "3:11"
+          },
+          {
+            "position": 2,
+            "title": "Love Is Stronger Than Death",
+            "length": "4:39"
+          },
+          {
+            "position": 3,
+            "title": "Dogs of Lust",
+            "length": "3:09"
+          },
+          {
+            "position": 4,
+            "title": "This Is the Night",
+            "length": "3:50"
+          },
+          {
+            "position": 5,
+            "title": "Slow Emotion Replay",
+            "length": "3:55"
+          },
+          {
+            "position": 6,
+            "title": "Helpline Operator",
+            "length": "4:49"
+          },
+          {
+            "position": 7,
+            "title": "Sodium Light Baby",
+            "length": "3:44"
+          },
+          {
+            "position": 8,
+            "title": "Lung Shadows",
+            "length": "4:35"
+          },
+          {
+            "position": 9,
+            "title": "Bluer Than Midnight",
+            "length": "3:43"
+          },
+          {
+            "position": 10,
+            "title": "Lonely Planet",
+            "length": "5:27"
+          }
+        ],
+        "artwork": "https://archive.org/download/mbid-8ec76c59-aae8-4726-9d3a-1dabfa55c3b6/mbid-8ec76c59-aae8-4726-9d3a-1dabfa55c3b6-2556736293_thumb250.jpg",
+        "personnel": "Matt Johnson (ag, vo, melodica, g, perc), D.C. Collard (Hammond organ), James Eller (b), Johnny Marr (harmonica, g, cho), David Palmer (ds), Vinnie Colaiuta (ds)"
+      },
+      {
+        "title": "Hanky Panky",
+        "year": 1994,
+        "release_group_mbid": "0df4d59e-05a1-3cd3-aa75-d27dcd615ca8",
+        "tracks": [
+          {
+            "position": 1,
+            "title": "Honky Tonkin’",
+            "length": "3:36"
+          },
+          {
+            "position": 2,
+            "title": "Honky Tonkin’",
+            "length": "2:45"
+          },
+          {
+            "position": 3,
+            "title": "Six More Miles",
+            "length": "0:57"
+          },
+          {
+            "position": 4,
+            "title": "Six More Miles",
+            "length": "2:47"
+          },
+          {
+            "position": 5,
+            "title": "My Heart Would Know",
+            "length": "3:31"
+          },
+          {
+            "position": 6,
+            "title": "My Heart Would Know",
+            "length": "2:27"
+          },
+          {
+            "position": 7,
+            "title": "If You’ll Be a Baby to Me",
+            "length": "1:00"
+          },
+          {
+            "position": 8,
+            "title": "If You’ll Be a Baby to Me",
+            "length": "0:59"
+          },
+          {
+            "position": 9,
+            "title": "I’m a Long Gone Daddy",
+            "length": "4:41"
+          },
+          {
+            "position": 10,
+            "title": "I’m a Long Gone Daddy",
+            "length": "2:51"
+          },
+          {
+            "position": 11,
+            "title": "Weary Blues From Waitin’",
+            "length": "2:47"
+          },
+          {
+            "position": 12,
+            "title": "Weary Blues From Waitin’",
+            "length": "2:28"
+          },
+          {
+            "position": 13,
+            "title": "I Saw the Light",
+            "length": "2:39"
+          },
+          {
+            "position": 14,
+            "title": "I Saw the Light",
+            "length": "2:44"
+          },
+          {
+            "position": 15,
+            "title": "Your Cheatin’ Heart",
+            "length": "3:45"
+          },
+          {
+            "position": 16,
+            "title": "Your Cheatin’ Heart",
+            "length": "2:43"
+          },
+          {
+            "position": 17,
+            "title": "I Can’t Get You Off of My Mind",
+            "length": "2:59"
+          },
+          {
+            "position": 18,
+            "title": "I Can’t Get You Off of My Mind",
+            "length": "2:51"
+          },
+          {
+            "position": 19,
+            "title": "There’s a Tear in My Beer",
+            "length": "3:23"
+          },
+          {
+            "position": 20,
+            "title": "There’s a Tear in My Beer",
+            "length": "2:48"
+          },
+          {
+            "position": 21,
+            "title": "I Can’t Escape From You",
+            "length": "4:14"
+          },
+          {
+            "position": 22,
+            "title": "I Can’t Escape From You",
+            "length": "2:22"
+          }
+        ],
+        "artwork": "https://archive.org/download/mbid-8cad2ba1-7b42-49d9-8b22-0c07cd1fcff2/mbid-8cad2ba1-7b42-49d9-8b22-0c07cd1fcff2-8276439121_thumb250.jpg",
+        "personnel": "Nick Hunt (tambourine), Matt Johnson (g, bass, tambourine, vo), Bruce Lampcov (tambourine), Eric Schermerhorn (slide g, ag, g), D.C. Collard (harmonium, Hammond organ, p, melodica, kbd, org, tack piano), Gail Ann Dorsey (bass, b), Brian MacLeod (ds), Jim Fitting (harmonica)"
+      },
+      {
+        "title": "NakedSelf",
+        "year": 2000,
+        "release_group_mbid": "3dbac5f2-d983-3378-adf2-fc6f9379d815",
+        "tracks": [
+          {
+            "position": 1,
+            "title": "BoilingPoint",
+            "length": "5:48"
+          },
+          {
+            "position": 2,
+            "title": "ShrunkenMan",
+            "length": "4:55"
+          },
+          {
+            "position": 3,
+            "title": "TheWhisperers",
+            "length": "3:21"
+          },
+          {
+            "position": 4,
+            "title": "SoulCatcher",
+            "length": "3:16"
+          },
+          {
+            "position": 5,
+            "title": "GlobalEyes",
+            "length": "4:10"
+          },
+          {
+            "position": 6,
+            "title": "DecemberSunlight",
+            "length": "3:18"
+          },
+          {
+            "position": 7,
+            "title": "SwineFever",
+            "length": "3:39"
+          },
+          {
+            "position": 8,
+            "title": "DieselBreeze",
+            "length": "2:52"
+          },
+          {
+            "position": 9,
+            "title": "WeatherBelle",
+            "length": "3:47"
+          },
+          {
+            "position": 10,
+            "title": "VoidyNumbness",
+            "length": "4:05"
+          },
+          {
+            "position": 11,
+            "title": "PhantomWalls",
+            "length": "4:17"
+          },
+          {
+            "position": 12,
+            "title": "SaltWater",
+            "length": "2:14"
+          }
+        ],
+        "artwork": "https://archive.org/download/mbid-a1050f80-dd9f-4754-9df1-9f7cda824c9f/mbid-a1050f80-dd9f-4754-9df1-9f7cda824c9f-15151741911_thumb250.jpg",
+        "personnel": null
+      },
+      {
+        "title": "Ensoulment",
+        "year": 2024,
+        "release_group_mbid": "1c1fa281-8fc0-4719-899f-d95f4f5da614",
+        "tracks": [
+          {
+            "position": 1,
+            "title": "Cognitive Dissident",
+            "length": "3:07"
+          },
+          {
+            "position": 2,
+            "title": "Some Days I Drink My Coffee by the Grave of William Blake",
+            "length": "4:03"
+          },
+          {
+            "position": 3,
+            "title": "Zen & The Art of Dating",
+            "length": "4:30"
+          },
+          {
+            "position": 4,
+            "title": "Kissing the Ring of POTUS",
+            "length": "3:34"
+          },
+          {
+            "position": 5,
+            "title": "Life After Life",
+            "length": "3:12"
+          },
+          {
+            "position": 6,
+            "title": "I Want to Wake Up With You",
+            "length": "4:00"
+          },
+          {
+            "position": 7,
+            "title": "Down by the Frozen River",
+            "length": "3:34"
+          },
+          {
+            "position": 8,
+            "title": "Risin’ Above the Need",
+            "length": "3:46"
+          },
+          {
+            "position": 9,
+            "title": "Linoleum Smooth to the Stockinged Foot",
+            "length": "3:54"
+          },
+          {
+            "position": 10,
+            "title": "Where Do We Go When We Die?",
+            "length": "4:03"
+          },
+          {
+            "position": 11,
+            "title": "I Hope You Remember (The Things I Can’t Forget)",
+            "length": "3:38"
+          },
+          {
+            "position": 12,
+            "title": "A Rainy Day in May",
+            "length": "4:02"
+          }
+        ],
+        "artwork": "https://archive.org/download/mbid-f62d51c2-5fcd-446f-a683-07bff64026d1/mbid-f62d51c2-5fcd-446f-a683-07bff64026d1-39859083561_thumb250.jpg",
+        "personnel": null
+      }
+    ]
   }
 ]
