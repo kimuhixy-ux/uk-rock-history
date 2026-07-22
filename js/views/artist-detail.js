@@ -61,7 +61,11 @@ function albumRowHtml(artist, album) {
       <div class="album-info">
         <span class="album-title">${escapeHtml(album.title)}</span>
         <span class="album-year">${album.year ?? "年不明"}</span>
-        ${album.personnel ? `<div class="personnel" style="margin-top:4px; font-size:0.85em; color:var(--text-dim);">参加ミュージシャン: ${escapeHtml(album.personnel)}</div>` : ""}
+        ${album.personnel
+          ? `<div class="personnel" style="margin-top:4px; font-size:0.85em; color:var(--text-dim);">参加ミュージシャン: ${escapeHtml(album.personnel)}</div>`
+          : album.lineup
+          ? `<div class="personnel" style="margin-top:4px; font-size:0.85em; color:var(--text-dim);">推定メンバー(発売年の在籍期間より): ${escapeHtml(album.lineup)}</div>`
+          : ""}
       </div>
       <div class="album-links">
         <a href="${spotifySearchUrl(query)}" target="_blank" rel="noopener">Spotify</a>
