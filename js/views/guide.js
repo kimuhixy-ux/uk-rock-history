@@ -30,7 +30,7 @@ export async function renderGuide(view) {
                 <div class="artist">${escapeHtml(al.artist)}</div>
                 <div class="note">${escapeHtml(al.note)}</div>
                 <div class="album-links" style="margin-top:8px;">
-                  <a href="${spotifySearchUrl(q)}" target="_blank" rel="noopener">Spotify</a>
+                  <a href="${spotifySearchUrl(q)}">Spotify</a>
                   <a href="${appleMusicSearchUrl(q)}" target="_blank" rel="noopener">Apple Music</a>
                 </div>
               </div>
