@@ -1,10 +1,12 @@
 // sw.js: オフライン閲覧のためのService Worker
 // バージョンを上げると古いキャッシュが破棄され、新しいファイルに置き換わります。
-const CACHE_VERSION = "uk-rock-history-v15-favorites-sync";
+const CACHE_VERSION = "uk-rock-history-v16-monetization-phase1";
 
 const PRECACHE_URLS = [
   "./",
   "./index.html",
+  "./about.html",
+  "./privacy.html",
   "./manifest.json",
   "./css/style.css",
   "./js/main.js",
