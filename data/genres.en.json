@@ -1,0 +1,214 @@
+{
+  "categories": [
+    {
+      "id": "british-invasion",
+      "label": "British Invasion / Merseybeat",
+      "period": "1960s",
+      "description": "Beat bands centered on Liverpool's Merseybeat sound that swept the American market."
+    },
+    {
+      "id": "blues-rock",
+      "label": "Blues Rock",
+      "period": "1960s",
+      "description": "American blues reinterpreted as rock by British youth."
+    },
+    {
+      "id": "psychedelic-rock",
+      "label": "Psychedelic Rock",
+      "period": "1960s",
+      "description": "Rock pursuing hallucinatory, experimental sound."
+    },
+    {
+      "id": "progressive-rock",
+      "label": "Progressive Rock",
+      "period": "1970s",
+      "description": "Rock drawing on classical and jazz vocabulary, favoring long, suite-like compositions."
+    },
+    {
+      "id": "hard-rock",
+      "label": "Hard Rock",
+      "period": "1970s",
+      "description": "Rock built around distorted guitars and a powerful rhythm section."
+    },
+    {
+      "id": "heavy-metal",
+      "label": "Heavy Metal (incl. NWOBHM)",
+      "period": "1970s-1980s",
+      "description": "A genre that pushed hard rock's aggression even further. Includes the New Wave of British Heavy Metal (NWOBHM)."
+    },
+    {
+      "id": "glam-rock",
+      "label": "Glam Rock",
+      "period": "1970s",
+      "description": "A genre combining flamboyant makeup and costumes with poppy rock sounds."
+    },
+    {
+      "id": "punk-rock",
+      "label": "Punk Rock",
+      "period": "1970s",
+      "description": "Simple, aggressive rock born as a reaction against increasingly ornate rock music."
+    },
+    {
+      "id": "post-punk-new-wave",
+      "label": "Post-Punk / New Wave",
+      "period": "1970s-1980s",
+      "description": "A genre that kept punk's spirit while developing in more experimental, electronic directions."
+    },
+    {
+      "id": "gothic-rock",
+      "label": "Gothic Rock",
+      "period": "1980s",
+      "description": "Rock branching off from post-punk with a dark, aestheticized worldview."
+    },
+    {
+      "id": "madchester",
+      "label": "Madchester",
+      "period": "1980s-1990s",
+      "description": "A movement centered on Manchester that fused dance music with rock."
+    },
+    {
+      "id": "shoegaze",
+      "label": "Shoegaze",
+      "period": "1980s-1990s",
+      "description": "A genre marked by walls of noisy guitar and dreamy vocals."
+    },
+    {
+      "id": "britpop",
+      "label": "Britpop",
+      "period": "1990s",
+      "description": "A guitar pop/rock movement that strongly foregrounded British identity."
+    },
+    {
+      "id": "alternative-indie",
+      "label": "Alternative / Indie Rock",
+      "period": "1990s-2000s",
+      "description": "Independent rock sound kept at a distance from the mainstream."
+    },
+    {
+      "id": "other",
+      "label": "Other (folk rock, pub rock, etc.)",
+      "period": "",
+      "description": "Rock-related genres not covered above."
+    }
+  ],
+  "genealogy": [
+    { "from": "blues-rock", "to": "hard-rock" },
+    { "from": "hard-rock", "to": "heavy-metal" },
+    { "from": "psychedelic-rock", "to": "progressive-rock" },
+    { "from": "british-invasion", "to": "psychedelic-rock" },
+    { "from": "british-invasion", "to": "blues-rock" },
+    { "from": "punk-rock", "to": "post-punk-new-wave" },
+    { "from": "post-punk-new-wave", "to": "gothic-rock" },
+    { "from": "post-punk-new-wave", "to": "madchester" },
+    { "from": "post-punk-new-wave", "to": "shoegaze" },
+    { "from": "madchester", "to": "britpop" },
+    { "from": "shoegaze", "to": "britpop" },
+    { "from": "britpop", "to": "alternative-indie" },
+    { "from": "glam-rock", "to": "punk-rock" },
+    { "from": "heavy-metal", "to": "alternative-indie" }
+  ],
+  "tag_map": {
+    "british invasion": ["british-invasion"],
+    "merseybeat": ["british-invasion"],
+    "mersey beat": ["british-invasion"],
+    "beat": ["british-invasion"],
+    "beat music": ["british-invasion"],
+    "60s": ["british-invasion"],
+    "60's": ["british-invasion"],
+    "mod": ["british-invasion"],
+    "freakbeat": ["british-invasion"],
+
+    "blues rock": ["blues-rock"],
+    "british blues": ["blues-rock"],
+    "british rhythm & blues": ["blues-rock"],
+    "rhythm & blues": ["blues-rock"],
+    "electric blues": ["blues-rock"],
+    "blues": ["blues-rock"],
+
+    "psychedelic rock": ["psychedelic-rock"],
+    "psychedelic": ["psychedelic-rock"],
+    "psychedelic pop": ["psychedelic-rock"],
+    "acid rock": ["psychedelic-rock"],
+    "raga rock": ["psychedelic-rock"],
+
+    "progressive rock": ["progressive-rock"],
+    "prog rock": ["progressive-rock"],
+    "art rock": ["progressive-rock"],
+    "symphonic rock": ["progressive-rock"],
+    "proto-prog": ["progressive-rock"],
+    "canterbury scene": ["progressive-rock"],
+    "krautrock": ["progressive-rock"],
+
+    "hard rock": ["hard-rock"],
+    "album rock": ["hard-rock"],
+    "arena rock": ["hard-rock"],
+
+    "heavy metal": ["heavy-metal"],
+    "metal": ["heavy-metal"],
+    "nwobhm": ["heavy-metal"],
+    "new wave of british heavy metal": ["heavy-metal"],
+    "doom metal": ["heavy-metal"],
+    "proto doom": ["heavy-metal"],
+    "traditional doom metal": ["heavy-metal"],
+    "speed metal": ["heavy-metal"],
+    "thrash metal": ["heavy-metal"],
+    "power metal": ["heavy-metal"],
+
+    "glam rock": ["glam-rock"],
+    "glam": ["glam-rock"],
+    "glitter rock": ["glam-rock"],
+
+    "punk": ["punk-rock"],
+    "punk rock": ["punk-rock"],
+    "street punk": ["punk-rock"],
+    "oi": ["punk-rock"],
+    "anarcho-punk": ["punk-rock"],
+    "hardcore punk": ["punk-rock"],
+
+    "post-punk": ["post-punk-new-wave"],
+    "post punk": ["post-punk-new-wave"],
+    "new wave": ["post-punk-new-wave"],
+    "synth-pop": ["post-punk-new-wave"],
+    "synthpop": ["post-punk-new-wave"],
+    "new romantic": ["post-punk-new-wave"],
+    "no wave": ["post-punk-new-wave"],
+
+    "gothic rock": ["gothic-rock"],
+    "goth rock": ["gothic-rock"],
+    "gothic": ["gothic-rock"],
+    "deathrock": ["gothic-rock"],
+
+    "madchester": ["madchester"],
+    "baggy": ["madchester"],
+
+    "shoegaze": ["shoegaze"],
+    "shoegazer": ["shoegaze"],
+    "dream pop": ["shoegaze"],
+    "noise pop": ["shoegaze"],
+
+    "britpop": ["britpop"],
+
+    "alternative rock": ["alternative-indie"],
+    "alternative": ["alternative-indie"],
+    "indie rock": ["alternative-indie"],
+    "indie pop": ["alternative-indie"],
+    "indie": ["alternative-indie"],
+    "grunge": ["alternative-indie"],
+    "post-britpop": ["alternative-indie"],
+    "post-grunge": ["alternative-indie"],
+
+    "folk rock": ["other"],
+    "folk": ["other"],
+    "pub rock": ["other"],
+    "rock and roll": ["other"],
+    "rock & roll": ["other"],
+    "rockabilly": ["other"],
+    "ska": ["other"],
+    "reggae": ["other"],
+    "britfunk": ["other"],
+    "yacht rock": ["other"],
+    "soft rock": ["other"],
+    "pop rock": ["other"],
+    "power pop": ["other"]
+  }
+}

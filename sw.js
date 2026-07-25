@@ -1,6 +1,6 @@
 // sw.js: オフライン閲覧のためのService Worker
 // バージョンを上げると古いキャッシュが破棄され、新しいファイルに置き換わります。
-const CACHE_VERSION = "uk-rock-history-v18-phase4-adsense-canonical";
+const CACHE_VERSION = "uk-rock-history-v19-phase5-en-localization";
 
 const PRECACHE_URLS = [
   "./",
@@ -8,6 +8,10 @@ const PRECACHE_URLS = [
   "./about.html",
   "./privacy.html",
   "./manifest.json",
+  "./en/index.html",
+  "./en/about.html",
+  "./en/privacy.html",
+  "./en/manifest.json",
   "./css/style.css",
   "./js/main.js",
   "./js/router.js",
@@ -16,6 +20,8 @@ const PRECACHE_URLS = [
   "./js/config.js",
   "./js/affiliate.js",
   "./js/donate.js",
+  "./js/i18n.js",
+  "./js/strings.js",
   "./js/components/artist-card.js",
   "./js/views/timeline.js",
   "./js/views/artists.js",
@@ -30,9 +36,12 @@ const PRECACHE_URLS = [
   "./js/vendor/d3.v7.min.js",
   "./data/artists.json",
   "./data/genres.json",
+  "./data/genres.en.json",
   "./data/relations.json",
   "./data/album_guide.json",
+  "./data/album_guide.en.json",
   "./data/glossary.json",
+  "./data/glossary.en.json",
   "./icons/icon-192.png",
   "./icons/icon-512.png",
 ];
