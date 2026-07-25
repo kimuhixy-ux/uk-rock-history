@@ -2,8 +2,10 @@
 
 import { loadData, decadeOf } from "../data.js";
 import { artistCardHtml } from "../components/artist-card.js";
+import { LOCALE } from "../i18n.js";
+import { S } from "../strings.js";
 
-const DECADES = [
+const DECADES_JA = [
   {
     year: 1960,
     label: "1960年代",
@@ -53,8 +55,64 @@ const DECADES = [
   },
 ];
 
+const DECADES_EN = [
+  {
+    year: 1960,
+    label: "1960s",
+    desc: `Starting with Liverpool's Merseybeat scene, the Beatles, the Rolling Stones and other
+      acts of the "British Invasion" swept the American market. In the same period, blues rock
+      (the Yardbirds, Cream) absorbed American blues, and the first stirrings of psychedelic rock appeared.`,
+  },
+  {
+    year: 1970,
+    label: "1970s",
+    desc: `Progressive rock (King Crimson, Yes, Genesis) blossomed with long, complex song structures,
+      while Led Zeppelin and Deep Purple established hard rock. Glam rock (T. Rex, David Bowie) blurred
+      the line between pop and rock, and by the decade's second half, the Sex Pistols and other punk
+      rock acts shook the existing music scene to its core.`,
+  },
+  {
+    year: 1980,
+    label: "1980s",
+    desc: `Carrying forward punk's energy, post-punk/new wave acts (Joy Division, the Cure) explored
+      introspective, experimental sound. Gothic rock built its own aesthetic, while Iron Maiden and other
+      NWOBHM bands pushed heavy metal into an internationally recognized genre. The Smiths and other
+      guitar-pop acts also left their mark.`,
+  },
+  {
+    year: 1990,
+    label: "1990s",
+    desc: `Centered on Manchester, "Madchester" (the Stone Roses, Happy Mondays) fused dance music
+      with rock. My Bloody Valentine and other shoegaze acts pursued walls of sound, while the "Britpop"
+      rivalry between Oasis and Blur pushed British rock back into the national spotlight.`,
+  },
+  {
+    year: 2000,
+    label: "2000s",
+    desc: `As a guitar-rock revival following Britpop, bands like Arctic Monkeys rose to prominence
+      through pre-social-media word of mouth. Muse and Coldplay scaled up into stadium-sized arena rock,
+      further broadening the range of expression in British rock.`,
+  },
+  {
+    year: 2010,
+    label: "2010s",
+    desc: `Indie rock diversified as it mingled with folk and electronica. The arrival of the streaming
+      era made scene boundaries more fluid, and new generations of bands carrying on the UK rock lineage
+      kept emerging across the country.`,
+  },
+  {
+    year: 2020,
+    label: "2020s–",
+    desc: `In the wake of the pandemic, DIY spirit and genre-crossing became more prominent than ever.
+      Classic albums and artists are being reappraised, and listeners across generations continue to enjoy
+      the history of UK rock itself through streaming.`,
+  },
+];
+
+const DECADES = LOCALE === "en" ? DECADES_EN : DECADES_JA;
+
 export async function renderTimeline(view) {
-  view.innerHTML = `<div class="loading">読み込み中…</div>`;
+  view.innerHTML = `<div class="loading">${S.loading}</div>`;
   const { artists } = await loadData();
 
   const byDecade = new Map(DECADES.map((d) => [d.year, []]));
@@ -68,21 +126,21 @@ export async function renderTimeline(view) {
   }
 
   const html = `
-    <h1 class="page-title">年表</h1>
-    <p class="page-lead">1960年代から現在まで、活動開始年ごとにイギリスのロックアーティストを辿れます。</p>
+    <h1 class="page-title">${S.timelineTitle}</h1>
+    <p class="page-lead">${S.timelineLead}</p>
     ${DECADES.map((d) => {
       const list = byDecade.get(d.year).sort((a, b) => (a.begin_year - b.begin_year) || a.name.localeCompare(b.name));
       return `
         <section class="decade-block">
           <div class="decade-header">
             <span class="decade-year">${d.label}</span>
-            <span class="chip">${list.length}組</span>
+            <span class="chip">${S.artistsCount(list.length)}</span>
           </div>
           <p class="decade-desc">${d.desc.trim().replace(/\s+/g, " ")}</p>
           <div class="artist-grid">
             ${list.slice(0, 24).map((a) => artistCardHtml(a)).join("")}
           </div>
-          ${list.length > 24 ? `<p style="margin-top:10px"><a href="#/artists?decade=${d.year}">この年代のアーティストをもっと見る(${list.length}組)→</a></p>` : ""}
+          ${list.length > 24 ? `<p style="margin-top:10px"><a href="#/artists?decade=${d.year}">${S.seeMoreArtists(list.length)}</a></p>` : ""}
         </section>
       `;
     }).join("")}

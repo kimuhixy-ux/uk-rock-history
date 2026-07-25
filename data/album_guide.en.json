@@ -1,0 +1,536 @@
+{
+  "british-invasion": [
+    {
+      "artist": "The Beatles",
+      "album": "Please Please Me",
+      "year": 1963,
+      "note": "Reportedly recorded in just a few hours on the day of their debut, this first album retains a raw live energy. It packages the heat of Merseybeat into one record and marks the starting point of the British Invasion.",
+      "amazon_asin": "B00F5H3A46"
+    },
+    {
+      "artist": "The Beatles",
+      "album": "A Hard Day's Night",
+      "year": 1964,
+      "note": "Every song written by Lennon-McCartney, a show of the band's growing confidence. Tied to the film of the same name, it pushed Beatlemania to a global scale.",
+      "amazon_asin": ""
+    },
+    {
+      "artist": "The Kinks",
+      "album": "The Kinks Are the Village Green Preservation Society",
+      "year": 1968,
+      "note": "An idiosyncratic album that chose English nostalgia over cracking America. A commercial flop at the time, it left a lasting mark on the aesthetics of English rock that followed.",
+      "amazon_asin": ""
+    },
+    {
+      "artist": "The Who",
+      "album": "My Generation",
+      "year": 1965,
+      "note": "A debut that turns the impatience and impulse of the Mod generation straight into sound, epitomized by the stuttered vocal of \"My Generation.\"",
+      "amazon_asin": ""
+    },
+    {
+      "artist": "The Rolling Stones",
+      "album": "Out of Our Heads",
+      "year": 1965,
+      "note": "A largely cover-driven record that makes no secret of its debt to American blues and R&B. Featuring \"Satisfaction,\" it documents a transitional period in which the Stones' own rock identity was taking shape.",
+      "amazon_asin": ""
+    }
+  ],
+  "blues-rock": [
+    {
+      "artist": "The Rolling Stones",
+      "album": "Beggars Banquet",
+      "year": 1968,
+      "note": "A pivotal album marking a return to blues roots after the band's psychedelic period. Featuring \"Sympathy for the Devil,\" it defined the Stones' image from then on.",
+      "amazon_asin": "B0BBFMKS1N"
+    },
+    {
+      "artist": "Cream",
+      "album": "Disraeli Gears",
+      "year": 1967,
+      "note": "A landmark for the power trio, fusing Clapton's guitar work with blues and psychedelia. It presented a new model of rock built around improvisation.",
+      "amazon_asin": ""
+    },
+    {
+      "artist": "The Yardbirds",
+      "album": "Roger the Engineer",
+      "year": 1966,
+      "note": "The band's only original studio album from the Jeff Beck era. It stretched the blues into experimental guitar territory, bridging toward later hard rock and prog.",
+      "amazon_asin": ""
+    },
+    {
+      "artist": "Fleetwood Mac",
+      "album": "Then Play On",
+      "year": 1969,
+      "note": "A world away from the band's later pop direction — muscular, Peter Green-era blues rock that showcases the strength of the British blues boom.",
+      "amazon_asin": ""
+    },
+    {
+      "artist": "Led Zeppelin",
+      "album": "Led Zeppelin",
+      "year": 1969,
+      "note": "A debut that reworks blues foundations with overwhelming power and dynamics. The prototype of hard rock is already visible here.",
+      "amazon_asin": ""
+    }
+  ],
+  "psychedelic-rock": [
+    {
+      "artist": "Pink Floyd",
+      "album": "The Piper at the Gates of Dawn",
+      "year": 1967,
+      "note": "The only original album from the Syd Barrett-led era, mixing fairy-tale lyrics with experimental sound treatments — a defining work of British psychedelia.",
+      "amazon_asin": "B019VQS8DE"
+    },
+    {
+      "artist": "The Beatles",
+      "album": "Sgt. Pepper's Lonely Hearts Club Band",
+      "year": 1967,
+      "note": "An album that pushed studio experimentation forward under the conceit of a fictional band. It changed the very concept of \"the album\" in rock thereafter.",
+      "amazon_asin": ""
+    },
+    {
+      "artist": "The Rolling Stones",
+      "album": "Their Satanic Majesties Request",
+      "year": 1967,
+      "note": "The Stones' one full dive into psychedelia. Opinion is divided, but it vividly captures the mood of its moment.",
+      "amazon_asin": ""
+    },
+    {
+      "artist": "Small Faces",
+      "album": "Ogdens' Nut Gone Flake",
+      "year": 1968,
+      "note": "An ambitious work whose circular sleeve and conceptual structure made headlines — a record that symbolizes the shift from Mod to psychedelia.",
+      "amazon_asin": ""
+    },
+    {
+      "artist": "Pink Floyd",
+      "album": "A Saucerful of Secrets",
+      "year": 1968,
+      "note": "Made right after Barrett's departure, as the band turned toward collective songwriting. It retains experimental edges while opening the path toward their later, more structured prog aesthetic.",
+      "amazon_asin": ""
+    }
+  ],
+  "progressive-rock": [
+    {
+      "artist": "King Crimson",
+      "album": "In the Court of the Crimson King",
+      "year": 1969,
+      "note": "The album credited with launching progressive rock as a genre in its own right, pairing tense ensemble playing with a fantastical worldview.",
+      "amazon_asin": "B00065MDRW"
+    },
+    {
+      "artist": "Yes",
+      "album": "Close to the Edge",
+      "year": 1972,
+      "note": "A work that pushed suite-like structure and virtuoso musicianship to their limits, emblematic of prog's golden age.",
+      "amazon_asin": ""
+    },
+    {
+      "artist": "Genesis",
+      "album": "Selling England by the Pound",
+      "year": 1973,
+      "note": "From the Peter Gabriel era, this is where the band's dramatic storytelling and English lyricism crystallized at their highest level.",
+      "amazon_asin": ""
+    },
+    {
+      "artist": "Jethro Tull",
+      "album": "Aqualung",
+      "year": 1971,
+      "note": "Jethro Tull's defining statement, boldly pairing flute-driven folk elements with hard-edged guitar.",
+      "amazon_asin": ""
+    },
+    {
+      "artist": "Emerson, Lake & Palmer",
+      "album": "Brain Salad Surgery",
+      "year": 1973,
+      "note": "A fusion of classical vocabulary and rock aggression, and one of the high points of keyboard-driven prog.",
+      "amazon_asin": ""
+    }
+  ],
+  "hard-rock": [
+    {
+      "artist": "Led Zeppelin",
+      "album": "Led Zeppelin IV",
+      "year": 1971,
+      "note": "A landmark featuring \"Stairway to Heaven,\" where hard rock and folk-tinged lyricism coexist almost miraculously.",
+      "amazon_asin": "B00M30RXG4"
+    },
+    {
+      "artist": "Deep Purple",
+      "album": "Machine Head",
+      "year": 1972,
+      "note": "A textbook hard rock album balancing stylistic precision with live energy, epitomized by the riff of \"Smoke on the Water.\"",
+      "amazon_asin": ""
+    },
+    {
+      "artist": "Queen",
+      "album": "A Night at the Opera",
+      "year": 1975,
+      "note": "Queen's ambitious statement bringing operatic grandeur and humor into hard rock. Includes \"Bohemian Rhapsody.\"",
+      "amazon_asin": ""
+    },
+    {
+      "artist": "Whitesnake",
+      "album": "Whitesnake",
+      "year": 1987,
+      "note": "Coverdale, a veteran of British blues rock, boldly reinvented himself here for '80s arena-scale hard rock.",
+      "amazon_asin": ""
+    },
+    {
+      "artist": "The Who",
+      "album": "Who's Next",
+      "year": 1971,
+      "note": "A work that boldly incorporates synthesizers while showing overwhelming band chemistry — a new kind of persuasive power for hard rock.",
+      "amazon_asin": ""
+    }
+  ],
+  "heavy-metal": [
+    {
+      "artist": "Black Sabbath",
+      "album": "Paranoid",
+      "year": 1970,
+      "note": "Heavy, ominous riffs and an occult worldview that created the template for heavy metal as a genre.",
+      "amazon_asin": "B01H2ROWCK"
+    },
+    {
+      "artist": "Judas Priest",
+      "album": "British Steel",
+      "year": 1980,
+      "note": "Established the leather-and-studs \"look\" of metal and helped ignite the NWOBHM movement.",
+      "amazon_asin": ""
+    },
+    {
+      "artist": "Iron Maiden",
+      "album": "The Number of the Beast",
+      "year": 1982,
+      "note": "The defining statement of the Bruce Dickinson era, pushing NWOBHM to worldwide prominence with narrative-heavy lyrics and virtuoso twin-guitar work.",
+      "amazon_asin": ""
+    },
+    {
+      "artist": "Motörhead",
+      "album": "Ace of Spades",
+      "year": 1980,
+      "note": "A fusion of punk's speed and metal's aggression that stands as something close to the origin point of speed metal.",
+      "amazon_asin": ""
+    },
+    {
+      "artist": "Def Leppard",
+      "album": "Hysteria",
+      "year": 1987,
+      "note": "Balanced metal's heaviness with a pop songwriting sense, giving this NWOBHM-rooted band worldwide sales.",
+      "amazon_asin": ""
+    }
+  ],
+  "glam-rock": [
+    {
+      "artist": "T. Rex",
+      "album": "Electric Warrior",
+      "year": 1971,
+      "note": "The album that set the template for glam rock, condensing boogie-driven riffs with Marc Bolan's charisma.",
+      "amazon_asin": "B007IGG0P8"
+    },
+    {
+      "artist": "David Bowie",
+      "album": "The Rise and Fall of Ziggy Stardust and the Spiders from Mars",
+      "year": 1972,
+      "note": "A concept album built around Bowie's full embodiment of the fictional rock star \"Ziggy Stardust,\" elevating glam rock into art.",
+      "amazon_asin": ""
+    },
+    {
+      "artist": "Roxy Music",
+      "album": "Roxy Music",
+      "year": 1972,
+      "note": "A debut combining art-school avant-gardism with poppy addictiveness, opening up the more intellectual side of glam.",
+      "amazon_asin": ""
+    },
+    {
+      "artist": "David Bowie",
+      "album": "Aladdin Sane",
+      "year": 1973,
+      "note": "An ambitious work that carries the Ziggy persona forward while incorporating more American, jazz-inflected elements.",
+      "amazon_asin": ""
+    },
+    {
+      "artist": "Queen",
+      "album": "Queen II",
+      "year": 1974,
+      "note": "An early work rich with glam excess and fantasy, a step before Queen's later, more stylized image took shape.",
+      "amazon_asin": ""
+    }
+  ],
+  "punk-rock": [
+    {
+      "artist": "Sex Pistols",
+      "album": "Never Mind the Bollocks, Here's the Sex Pistols",
+      "year": 1977,
+      "note": "The only original album that ignited British punk, hurling anger at the music industry and society itself.",
+      "amazon_asin": "B007Y7RGOU"
+    },
+    {
+      "artist": "The Clash",
+      "album": "The Clash",
+      "year": 1977,
+      "note": "A fiercely political debut that folds reggae elements into punk's aggression.",
+      "amazon_asin": ""
+    },
+    {
+      "artist": "The Damned",
+      "album": "Damned Damned Damned",
+      "year": 1977,
+      "note": "One of the very first British punk albums released — fast, garage-rooted punk sound.",
+      "amazon_asin": ""
+    },
+    {
+      "artist": "Buzzcocks",
+      "album": "Another Music in a Different Kitchen",
+      "year": 1978,
+      "note": "A power-pop-inflected punk classic that brings pop melody into punk's speed and drive.",
+      "amazon_asin": ""
+    },
+    {
+      "artist": "The Jam",
+      "album": "In the City",
+      "year": 1977,
+      "note": "The debut of Paul Weller's band, connecting Mod aesthetics with punk impulse.",
+      "amazon_asin": ""
+    }
+  ],
+  "post-punk-new-wave": [
+    {
+      "artist": "Joy Division",
+      "album": "Unknown Pleasures",
+      "year": 1979,
+      "note": "Cold, hard production and introspective lyrics that defined the aesthetics of post-punk.",
+      "amazon_asin": "B0D1C5HPWH"
+    },
+    {
+      "artist": "The Police",
+      "album": "Outlandos d'Amour",
+      "year": 1978,
+      "note": "A debut pairing punk energy with reggae-inflected rhythm, distinctly the Police's own new wave sound.",
+      "amazon_asin": ""
+    },
+    {
+      "artist": "Siouxsie and the Banshees",
+      "album": "Juju",
+      "year": 1981,
+      "note": "An important work bridging post-punk and gothic rock through incantatory rhythms and razor-edged guitar.",
+      "amazon_asin": ""
+    },
+    {
+      "artist": "The Cure",
+      "album": "Seventeen Seconds",
+      "year": 1980,
+      "note": "A pivotal album turning toward minimal, melancholic sound — the starting point of the band's gothic direction.",
+      "amazon_asin": ""
+    },
+    {
+      "artist": "New Order",
+      "album": "Power, Corruption & Lies",
+      "year": 1983,
+      "note": "After Joy Division's breakup, this album boldly embraces synthesizers and dance beats, opening new territory.",
+      "amazon_asin": ""
+    }
+  ],
+  "gothic-rock": [
+    {
+      "artist": "Bauhaus",
+      "album": "In the Flat Field",
+      "year": 1980,
+      "note": "The debut of the band whose name gave gothic rock its genre name, establishing a dark, theatrical worldview.",
+      "amazon_asin": "B000005RDV"
+    },
+    {
+      "artist": "The Sisters of Mercy",
+      "album": "Floodland",
+      "year": 1987,
+      "note": "Drum machines and grand arrangements expand gothic rock into a more epic, larger-scale sound.",
+      "amazon_asin": ""
+    },
+    {
+      "artist": "The Cure",
+      "album": "Disintegration",
+      "year": 1989,
+      "note": "A major work where melancholy and beauty fuse to their fullest extent — often regarded as The Cure's high-water mark.",
+      "amazon_asin": ""
+    },
+    {
+      "artist": "Siouxsie and the Banshees",
+      "album": "Hyaena",
+      "year": 1984,
+      "note": "A rich, mid-career work where aestheticized atmosphere and a pop sensibility coexist.",
+      "amazon_asin": ""
+    },
+    {
+      "artist": "Fields of the Nephilim",
+      "album": "The Nephilim",
+      "year": 1988,
+      "note": "A western-tinged worldview and dense sound that drove the goth scene of the late '80s.",
+      "amazon_asin": ""
+    }
+  ],
+  "madchester": [
+    {
+      "artist": "The Stone Roses",
+      "album": "The Stone Roses",
+      "year": 1989,
+      "note": "A landmark debut fusing guitar pop with dance beats, setting the direction for Madchester.",
+      "amazon_asin": "B00435JLW6"
+    },
+    {
+      "artist": "Happy Mondays",
+      "album": "Pills 'n' Thrills and Bellyaches",
+      "year": 1990,
+      "note": "A defining Madchester record that connects the club culture of the Haçienda directly to rock.",
+      "amazon_asin": ""
+    },
+    {
+      "artist": "The Charlatans",
+      "album": "Some Friendly",
+      "year": 1990,
+      "note": "This band's defining work, widening Madchester's reach with an organ-driven groove.",
+      "amazon_asin": ""
+    },
+    {
+      "artist": "James",
+      "album": "Gold Mother",
+      "year": 1990,
+      "note": "An album that established the band's popularity through anthemic, uplifting songs with a distinctly Mancunian energy.",
+      "amazon_asin": ""
+    }
+  ],
+  "shoegaze": [
+    {
+      "artist": "My Bloody Valentine",
+      "album": "Loveless",
+      "year": 1991,
+      "note": "A legendary album fusing walls of guitar noise with floating vocals — the definitive statement of the shoegaze genre.",
+      "amazon_asin": "B091DSZ47Q"
+    },
+    {
+      "artist": "My Bloody Valentine",
+      "album": "Isn't Anything",
+      "year": 1988,
+      "note": "The album where the fusion of noise and sweet melody — the prototype of the later wall-of-sound approach — first appears.",
+      "amazon_asin": ""
+    },
+    {
+      "artist": "Slowdive",
+      "album": "Souvlaki",
+      "year": 1993,
+      "note": "A work that pushes shoegaze's lyrical, ambient-adjacent side to its fullest with its sound imagery.",
+      "amazon_asin": ""
+    },
+    {
+      "artist": "Ride",
+      "album": "Nowhere",
+      "year": 1990,
+      "note": "A defining early shoegaze record balancing roaring guitars with melodic development.",
+      "amazon_asin": ""
+    }
+  ],
+  "britpop": [
+    {
+      "artist": "Oasis",
+      "album": "(What's the Story) Morning Glory?",
+      "year": 1995,
+      "note": "A landmark album featuring \"Wonderwall\" that turned Britpop into a national phenomenon.",
+      "amazon_asin": "B00LFICG1C"
+    },
+    {
+      "artist": "Blur",
+      "album": "Parklife",
+      "year": 1994,
+      "note": "A cynical yet poppy portrait of British everyday life that defined the aesthetics of Britpop.",
+      "amazon_asin": ""
+    },
+    {
+      "artist": "Pulp",
+      "album": "Different Class",
+      "year": 1995,
+      "note": "Sharp, class-conscious lyrics paired with glam-inflected showmanship, cutting incisively into the mood of '90s Britain.",
+      "amazon_asin": ""
+    },
+    {
+      "artist": "Suede",
+      "album": "Suede",
+      "year": 1993,
+      "note": "The debut that heralded the Britpop movement, carrying a decadent aesthetic and lingering traces of glam.",
+      "amazon_asin": ""
+    },
+    {
+      "artist": "The Verve",
+      "album": "Urban Hymns",
+      "year": 1997,
+      "note": "A major work featuring \"Bitter Sweet Symphony\" that fuses shoegaze-like sound with Britpop's exhilaration.",
+      "amazon_asin": ""
+    }
+  ],
+  "alternative-indie": [
+    {
+      "artist": "Radiohead",
+      "album": "OK Computer",
+      "year": 1997,
+      "note": "A landmark of '90s rock that captures anxiety about technological society through experimental soundscapes.",
+      "amazon_asin": "B071KZZXZM"
+    },
+    {
+      "artist": "Muse",
+      "album": "Origin of Symmetry",
+      "year": 2001,
+      "note": "An early Muse landmark fusing classical grandeur with hard-rock dynamics.",
+      "amazon_asin": ""
+    },
+    {
+      "artist": "Coldplay",
+      "album": "A Rush of Blood to the Head",
+      "year": 2002,
+      "note": "Balances introspective lyrics with arena-scale grandeur, and secured the band's worldwide breakthrough.",
+      "amazon_asin": ""
+    },
+    {
+      "artist": "Arctic Monkeys",
+      "album": "Whatever People Say I Am, That's What I'm Not",
+      "year": 2006,
+      "note": "A debut that emerged from pre-social-media word of mouth, sharply capturing the real everyday life of young people.",
+      "amazon_asin": ""
+    },
+    {
+      "artist": "Kate Bush",
+      "album": "Hounds of Love",
+      "year": 1985,
+      "note": "A work of singular, genre-defying musicality that pioneered British alternative music.",
+      "amazon_asin": ""
+    }
+  ],
+  "other": [
+    {
+      "artist": "Dire Straits",
+      "album": "Brothers in Arms",
+      "year": 1985,
+      "note": "A defining '80s rock album balancing pub-rock solidity with the cutting edge of digital recording.",
+      "amazon_asin": "B0009A21R6"
+    },
+    {
+      "artist": "Fleetwood Mac",
+      "album": "Rumours",
+      "year": 1977,
+      "note": "The pop-rock landmark this British-formed band reached after relocating to America — its internal drama projected directly onto the songs.",
+      "amazon_asin": ""
+    },
+    {
+      "artist": "Elton John",
+      "album": "Goodbye Yellow Brick Road",
+      "year": 1973,
+      "note": "Elton John's defining work, moving freely between rock, pop, and folk around a piano-driven core.",
+      "amazon_asin": ""
+    },
+    {
+      "artist": "Rod Stewart",
+      "album": "Every Picture Tells a Story",
+      "year": 1971,
+      "note": "An early Rod Stewart classic that moves fluidly between folk and blues-rock vocabulary.",
+      "amazon_asin": ""
+    }
+  ]
+}
