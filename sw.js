@@ -1,6 +1,6 @@
 // sw.js: オフライン閲覧のためのService Worker
 // バージョンを上げると古いキャッシュが破棄され、新しいファイルに置き換わります。
-const CACHE_VERSION = "uk-rock-history-v19-phase5-en-localization";
+const CACHE_VERSION = "uk-rock-history-v20-adsense";
 
 const PRECACHE_URLS = [
   "./",
@@ -20,6 +20,7 @@ const PRECACHE_URLS = [
   "./js/config.js",
   "./js/affiliate.js",
   "./js/donate.js",
+  "./js/ads.js",
   "./js/i18n.js",
   "./js/strings.js",
   "./js/components/artist-card.js",
