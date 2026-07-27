@@ -1,6 +1,6 @@
 // sw.js: オフライン閲覧のためのService Worker
 // バージョンを上げると古いキャッシュが破棄され、新しいファイルに置き換わります。
-const CACHE_VERSION = "uk-rock-history-v21-swfix";
+const CACHE_VERSION = "uk-rock-history-v22-cmp";
 
 const PRECACHE_URLS = [
   "./",
