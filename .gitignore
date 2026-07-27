@@ -13,6 +13,9 @@ data/tracklist_progress.json
 # macOS
 .DS_Store
 
+# Cloudflare Wrangler local deploy cache
+.wrangler/
+
 # Spotify APIの認証情報(絶対にコミットしない)
 spotify_credentials.json
 .env
